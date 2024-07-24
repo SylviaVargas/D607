@@ -1,0 +1,3511 @@
+[
+    {
+        "transaction_id": "955fbed4-219f-4660-b8a1-23af6fea63ae",
+        "customer": {
+            "customer_id": "b912333a-47db-4111-97af-042a4fdcde3e",
+            "name": "Rhonda Williams",
+            "email": "haleythomas@example.com",
+            "phone": "(629)449-0963x934",
+            "address": "11421 Suarez Mews\nNew Michael, ME 12793"
+        },
+        "transaction_date": "2024-01-02",
+        "shipping_method": "Overnight",
+        "total_amount": 389.97,
+        "shopping_cart": [
+            {
+                "product_id": "e8a2e938-75b3-4a06-a343-398c6ef4e160",
+                "product_category": "Entertainment",
+                "product_name": "Blu-ray Player",
+                "quantity": 2,
+                "price": 149.99
+            },
+            {
+                "product_id": "2a32ac39-7a83-4fc1-9c21-aca0d88a20ba",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Blender",
+                "quantity": 1,
+                "price": 89.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "d45d8926-67f4-4ef9-9e48-19f05478c7c2",
+        "customer": {
+            "customer_id": "3eef77cc-3446-4969-9649-dcaa4c7184b0",
+            "name": "Laura Downs",
+            "email": "johnlopez@example.net",
+            "phone": "5338974544",
+            "address": "PSC 6274, Box 8720\nAPO AA 58038"
+        },
+        "transaction_date": "2023-11-09",
+        "shipping_method": "Two-Day",
+        "total_amount": 549.95,
+        "shopping_cart": [
+            {
+                "product_id": "7f313286-5873-47af-be8d-f7685e0e51aa",
+                "product_category": "Personal Care",
+                "product_name": "Facial Steamer",
+                "quantity": 2,
+                "price": 79.99
+            },
+            {
+                "product_id": "d81912b1-63f5-4576-a4c2-b7982abff013",
+                "product_category": "Fitness",
+                "product_name": "Fitness Tracker",
+                "quantity": 3,
+                "price": 129.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "9fb29ce0-3804-48a5-814c-c462847b2032",
+        "customer": {
+            "customer_id": "4376ab16-d06d-4c3e-9699-38ce29c53413",
+            "name": "Pamela Cook",
+            "email": "joseph04@example.com",
+            "phone": "688-486-2634",
+            "address": "496 Sarah Spring\nNorth Davidhaven, OH 23216"
+        },
+        "transaction_date": "2024-01-01",
+        "shipping_method": "Overnight",
+        "total_amount": 1149.94,
+        "shopping_cart": [
+            {
+                "product_id": "d888e479-e44a-4653-94ed-04498ea1b28a",
+                "product_category": "Office Equipment",
+                "product_name": "Standing Desk",
+                "quantity": 2,
+                "price": 399.99
+            },
+            {
+                "product_id": "e7a90772-507e-4021-923d-5e3b3cd97e93",
+                "product_category": "Home Appliances",
+                "product_name": "Dehumidifier",
+                "quantity": 1,
+                "price": 199.99
+            },
+            {
+                "product_id": "1297d990-f94f-4ea6-92fe-2f9966994d87",
+                "product_category": "Office Equipment",
+                "product_name": "Keyboard",
+                "quantity": 3,
+                "price": 49.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "59e69400-c480-44f2-b129-8899bb36d1bc",
+        "customer": {
+            "customer_id": "2e838d92-a6bb-4581-b558-268f216ecd43",
+            "name": "Diane Williams",
+            "email": "boneill@example.com",
+            "phone": "446-405-7173x1575",
+            "address": "1592 Green Roads Suite 995\nWest Tammy, OH 17966"
+        },
+        "transaction_date": "2024-03-20",
+        "shipping_method": "Two-Day",
+        "total_amount": 3099.95,
+        "shopping_cart": [
+            {
+                "product_id": "d1b5a274-7df5-45ea-8369-5bcff2cf7dc0",
+                "product_category": "Photography",
+                "product_name": "Camera",
+                "quantity": 1,
+                "price": 899.99
+            },
+            {
+                "product_id": "2a606d1d-276d-4efa-ac97-32bdcc8a18dc",
+                "product_category": "Electronics",
+                "product_name": "Smartwatch",
+                "quantity": 2,
+                "price": 299.99
+            },
+            {
+                "product_id": "7b5bd150-91bb-48cd-b431-a2a920e679b9",
+                "product_category": "Home Appliances",
+                "product_name": "Dishwasher",
+                "quantity": 2,
+                "price": 799.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "be04f01f-29b5-4a93-a6e1-46060991d697",
+        "customer": {
+            "customer_id": "c6340e55-8f2b-4818-9eee-15b939e62605",
+            "name": "Jeff Rice",
+            "email": "jerry93@example.net",
+            "phone": "(937)633-2021",
+            "address": "9128 Kristy Dale\nMeganburgh, PR 83177"
+        },
+        "transaction_date": "2023-12-13",
+        "shipping_method": "Two-Day",
+        "total_amount": 1609.93,
+        "shopping_cart": [
+            {
+                "product_id": "91f11cdc-25ba-41df-becc-23ec5198c83d",
+                "product_category": "Smart Home",
+                "product_name": "Smart Thermostat",
+                "quantity": 1,
+                "price": 199.99
+            },
+            {
+                "product_id": "d39dbab5-45ea-49ba-afb6-10ee2361661b",
+                "product_category": "Home Appliances",
+                "product_name": "Space Heater",
+                "quantity": 1,
+                "price": 69.99
+            },
+            {
+                "product_id": "ecebede9-4542-4cea-b3b6-eb3f6f69ca8d",
+                "product_category": "Photography",
+                "product_name": "Action Camera",
+                "quantity": 3,
+                "price": 399.99
+            },
+            {
+                "product_id": "5c764a8b-3b2d-4418-8c34-ac675a769f35",
+                "product_category": "Home Appliances",
+                "product_name": "Space Heater",
+                "quantity": 2,
+                "price": 69.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "e28a6cd6-4f57-432d-aa32-25058be4ea0c",
+        "customer": {
+            "customer_id": "8fd090db-a025-469e-a3a0-7649f402b373",
+            "name": "Mr. Eric Crosby",
+            "email": "sharproberto@example.net",
+            "phone": "+1-571-480-1252x98523",
+            "address": "2607 Michael Union Apt. 884\nSouth Bethanyburgh, FL 92658"
+        },
+        "transaction_date": "2024-03-28",
+        "shipping_method": "Standard",
+        "total_amount": 1599.99,
+        "shopping_cart": [
+            {
+                "product_id": "a5962688-f93a-4ea9-81ed-bb31e172873f",
+                "product_category": "Electronics",
+                "product_name": "Gaming Laptop",
+                "quantity": 1,
+                "price": 1599.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "2328e1e0-d0eb-4bb0-8c1e-ae383d4dcdf6",
+        "customer": {
+            "customer_id": "e0ca395b-5a41-490f-a6ce-4f05a18b4e45",
+            "name": "Joseph Preston",
+            "email": "adrianabrock@example.org",
+            "phone": "711-513-4733x820",
+            "address": "3657 Henderson Ville\nSerranofort, PW 89022"
+        },
+        "transaction_date": "2024-01-30",
+        "shipping_method": "Overnight",
+        "total_amount": 5189.92,
+        "shopping_cart": [
+            {
+                "product_id": "81795688-5a40-4269-82a5-e339361f3588",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Blender",
+                "quantity": 3,
+                "price": 89.99
+            },
+            {
+                "product_id": "a51fce9e-0575-4ca1-9e6d-169c0c9848e7",
+                "product_category": "Personal Care",
+                "product_name": "Hair Dryer",
+                "quantity": 1,
+                "price": 59.99
+            },
+            {
+                "product_id": "93ea4eec-b099-41b5-9ef4-844cb84f0b28",
+                "product_category": "Personal Care",
+                "product_name": "Hair Dryer",
+                "quantity": 1,
+                "price": 59.99
+            },
+            {
+                "product_id": "6279950e-b125-44da-9f67-8801fdf82133",
+                "product_category": "Electronics",
+                "product_name": "Gaming Laptop",
+                "quantity": 3,
+                "price": 1599.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "6b6a0312-91b0-4498-b8d0-a1671602efd2",
+        "customer": {
+            "customer_id": "5d04ce98-a844-4126-8167-c03972cf1a6b",
+            "name": "Garrett Gallegos",
+            "email": "jamesnelson@example.org",
+            "phone": "001-909-220-3193x176",
+            "address": "1127 Hicks Skyway Apt. 227\nWest Jeremy, MN 79662"
+        },
+        "transaction_date": "2024-05-08",
+        "shipping_method": "Expedited",
+        "total_amount": 2549.93,
+        "shopping_cart": [
+            {
+                "product_id": "18b1ce62-fe00-4d00-955a-9c994e308408",
+                "product_category": "Home Appliances",
+                "product_name": "Vacuum Cleaner",
+                "quantity": 3,
+                "price": 199.99
+            },
+            {
+                "product_id": "e64a0686-1044-4965-b454-498768738183",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Air Fryer",
+                "quantity": 1,
+                "price": 149.99
+            },
+            {
+                "product_id": "3dd0a2c0-73dc-4136-b512-7f5f1fbdf26d",
+                "product_category": "Fitness",
+                "product_name": "Treadmill",
+                "quantity": 2,
+                "price": 699.99
+            },
+            {
+                "product_id": "98924c62-9497-4285-b83c-1314e07ff0a7",
+                "product_category": "Office Equipment",
+                "product_name": "Standing Desk",
+                "quantity": 1,
+                "price": 399.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "f262674b-87cc-4ae4-85d3-d92a5f632a6f",
+        "customer": {
+            "customer_id": "c61abc5a-497d-4bdf-bd9c-8585397174d1",
+            "name": "Kylie Jacobs",
+            "email": "levyjennifer@example.com",
+            "phone": "744-976-8580x57469",
+            "address": "0627 John Parkways\nNew Sergio, AL 21380"
+        },
+        "transaction_date": "2023-12-29",
+        "shipping_method": "Expedited",
+        "total_amount": 1349.96,
+        "shopping_cart": [
+            {
+                "product_id": "3a5c61df-4751-438d-9863-ef113299f1df",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Electric Kettle",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "cf70d20d-6b39-40c7-8ba3-b7500ad37175",
+                "product_category": "Photography",
+                "product_name": "DSLR Camera",
+                "quantity": 1,
+                "price": 1199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "931fff6f-72a0-4c57-ae74-e59f3ae743b1",
+        "customer": {
+            "customer_id": "90d28aea-2cce-44df-975e-c0b819761081",
+            "name": "Andres Miller",
+            "email": "zwilliams@example.com",
+            "phone": "+1-332-210-8364x1630",
+            "address": "32642 Charles Skyway Apt. 573\nEast Gregoryberg, TX 57675"
+        },
+        "transaction_date": "2024-04-19",
+        "shipping_method": "Two-Day",
+        "total_amount": 1199.99,
+        "shopping_cart": [
+            {
+                "product_id": "f70e8577-155a-4595-a198-6571d2c2a602",
+                "product_category": "Electronics",
+                "product_name": "4K TV",
+                "quantity": 1,
+                "price": 1199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "4520737a-18d0-4852-98b4-8a6aac82c68a",
+        "customer": {
+            "customer_id": "83e8eed3-fe52-4d1f-b661-a6a7c90380e0",
+            "name": "Paul Pacheco",
+            "email": "destiny79@example.org",
+            "phone": "001-356-884-5658x10150",
+            "address": "277 Mary Pine\nHowardview, WV 88201"
+        },
+        "transaction_date": "2024-04-30",
+        "shipping_method": "Two-Day",
+        "total_amount": 2449.95,
+        "shopping_cart": [
+            {
+                "product_id": "adcd510b-9692-4ff8-b8ed-38e0eded030e",
+                "product_category": "Fitness",
+                "product_name": "Dumbbells",
+                "quantity": 1,
+                "price": 49.99
+            },
+            {
+                "product_id": "46c1d048-ff68-474a-8e47-eea2358a00ed",
+                "product_category": "Gaming",
+                "product_name": "VR Headset",
+                "quantity": 2,
+                "price": 399.99
+            },
+            {
+                "product_id": "8f6e5abb-dd94-4a73-983c-f86d7bd73681",
+                "product_category": "Entertainment",
+                "product_name": "Television",
+                "quantity": 2,
+                "price": 799.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "ec567e68-df70-4ac4-8850-075436ee0341",
+        "customer": {
+            "customer_id": "96ee4db4-dade-42d1-9b9e-eb68f3cfff45",
+            "name": "Christopher Williams",
+            "email": "khodge@example.com",
+            "phone": "(538)649-0980",
+            "address": "7147 Burton Via\nKellyhaven, VA 77804"
+        },
+        "transaction_date": "2023-09-13",
+        "shipping_method": "Standard",
+        "total_amount": 309.97,
+        "shopping_cart": [
+            {
+                "product_id": "6995160b-85ea-4982-b5ad-6f5761df5a20",
+                "product_category": "Smart Home",
+                "product_name": "Smart Door Lock",
+                "quantity": 1,
+                "price": 249.99
+            },
+            {
+                "product_id": "071bd9ac-1349-46b2-81c9-43e0b728bf96",
+                "product_category": "Fitness",
+                "product_name": "Yoga Mat",
+                "quantity": 2,
+                "price": 29.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "ed864922-c995-4fb5-8268-d2b510c1d27b",
+        "customer": {
+            "customer_id": "921a4127-7516-4185-a86f-3d6c653830f4",
+            "name": "Joshua Washington",
+            "email": "owheeler@example.com",
+            "phone": "(771)697-5917x41016",
+            "address": "PSC 8768, Box 2904\nAPO AE 01110"
+        },
+        "transaction_date": "2024-02-16",
+        "shipping_method": "Overnight",
+        "total_amount": 3249.92,
+        "shopping_cart": [
+            {
+                "product_id": "2de88bb3-dfb1-4ca7-85d3-584a1e5944dd",
+                "product_category": "Home Appliances",
+                "product_name": "Water Purifier",
+                "quantity": 1,
+                "price": 249.99
+            },
+            {
+                "product_id": "fb7b6bf6-91b7-473b-8d0d-e987d7f3091b",
+                "product_category": "Home Appliances",
+                "product_name": "Electric Blanket",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "5f84cb0f-e4b2-42f4-9ea3-6adda14dec39",
+                "product_category": "Electronics",
+                "product_name": "Smartphone",
+                "quantity": 2,
+                "price": 699.99
+            },
+            {
+                "product_id": "8a5aeed8-d6cd-4c9b-b676-8a7b16e273aa",
+                "product_category": "Office Equipment",
+                "product_name": "Monitor",
+                "quantity": 1,
+                "price": 249.99
+            },
+            {
+                "product_id": "2af290d8-f18a-42ea-8d7c-839a2242e4b4",
+                "product_category": "Electronics",
+                "product_name": "Laptop",
+                "quantity": 1,
+                "price": 1199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "c3e4ba87-5140-4bae-9b29-25f607b1acff",
+        "customer": {
+            "customer_id": "1c704554-5b97-479d-b847-de3eb84e61af",
+            "name": "William Luna",
+            "email": "holderkristen@example.com",
+            "phone": "+1-819-509-6704x811",
+            "address": "22205 Michele Place Suite 475\nJonathanmouth, PW 83329"
+        },
+        "transaction_date": "2024-06-26",
+        "shipping_method": "Expedited",
+        "total_amount": 2279.93,
+        "shopping_cart": [
+            {
+                "product_id": "567579f8-25ee-4e17-9230-2a5550b42954",
+                "product_category": "Office Equipment",
+                "product_name": "Monitor",
+                "quantity": 2,
+                "price": 249.99
+            },
+            {
+                "product_id": "2080b341-4dd9-4a00-bc7e-30859352b93b",
+                "product_category": "Gaming",
+                "product_name": "Gaming Mouse",
+                "quantity": 3,
+                "price": 59.99
+            },
+            {
+                "product_id": "12e05e81-8c98-49e9-9d8a-17edb8189e21",
+                "product_category": "Entertainment",
+                "product_name": "Television",
+                "quantity": 2,
+                "price": 799.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "ceb820d4-3c8f-467c-bb12-44a8357c567f",
+        "customer": {
+            "customer_id": "7c076ce2-b25e-41e8-a06f-a4cec21719ac",
+            "name": "Steven Cole",
+            "email": "christine92@example.com",
+            "phone": "(218)753-9596",
+            "address": "7273 Anna Shores\nMichaelbury, WV 19390"
+        },
+        "transaction_date": "2024-06-04",
+        "shipping_method": "Standard",
+        "total_amount": 639.93,
+        "shopping_cart": [
+            {
+                "product_id": "7f324592-1b05-4e74-b5a0-615b3b376546",
+                "product_category": "Fitness",
+                "product_name": "Fitness Tracker",
+                "quantity": 3,
+                "price": 129.99
+            },
+            {
+                "product_id": "26580782-75b9-401f-9259-f652221e44a6",
+                "product_category": "Office Equipment",
+                "product_name": "Mouse",
+                "quantity": 3,
+                "price": 39.99
+            },
+            {
+                "product_id": "e4020a84-b860-4fb8-9a50-4cba54c9c355",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Coffee Maker",
+                "quantity": 1,
+                "price": 129.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "6d02fa73-0765-4947-8842-80f81b26f1a9",
+        "customer": {
+            "customer_id": "2f3e089b-560e-460a-8a30-2b52464feee1",
+            "name": "Kaylee Hanson",
+            "email": "sgay@example.org",
+            "phone": "564-713-5373",
+            "address": "55815 Ellen Land Suite 197\nDanielland, MH 25102"
+        },
+        "transaction_date": "2024-06-19",
+        "shipping_method": "Expedited",
+        "total_amount": 1149.86,
+        "shopping_cart": [
+            {
+                "product_id": "d99ba739-cae3-407d-a04c-c20ad60b5b63",
+                "product_category": "Gaming",
+                "product_name": "Gaming Keyboard",
+                "quantity": 3,
+                "price": 99.99
+            },
+            {
+                "product_id": "400ce36d-8fd0-419b-a113-53cc3cf75850",
+                "product_category": "Office Equipment",
+                "product_name": "Keyboard",
+                "quantity": 2,
+                "price": 49.99
+            },
+            {
+                "product_id": "1f57e939-d3e7-462c-9646-5ae35ba7dc2d",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Food Processor",
+                "quantity": 3,
+                "price": 149.99
+            },
+            {
+                "product_id": "969b6417-1f82-40cd-8867-b53b4e44f909",
+                "product_category": "Personal Care",
+                "product_name": "Hair Straightener",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "05207338-ebc3-405e-af96-49b843b88d4e",
+                "product_category": "Fitness",
+                "product_name": "Dumbbells",
+                "quantity": 3,
+                "price": 49.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "2c5a1c64-e971-453a-a490-f1e7f1c1a412",
+        "customer": {
+            "customer_id": "917f8364-1508-4dfd-a68d-9ce6fef65910",
+            "name": "Christine Kennedy",
+            "email": "vharris@example.com",
+            "phone": "310-740-6463",
+            "address": "6511 Pope Wells\nLake Rachelborough, UT 16971"
+        },
+        "transaction_date": "2023-08-09",
+        "shipping_method": "Expedited",
+        "total_amount": 299.99,
+        "shopping_cart": [
+            {
+                "product_id": "d6ed63ff-5931-4630-b9a6-5467a4c637be",
+                "product_category": "Home Appliances",
+                "product_name": "Air Conditioner",
+                "quantity": 1,
+                "price": 299.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "c2572ff1-6cb8-4bd1-9211-8596eaf6aa2e",
+        "customer": {
+            "customer_id": "f10414f4-e6ad-43fd-8575-51ecef69e729",
+            "name": "Angela Clark",
+            "email": "ngonzalez@example.com",
+            "phone": "(549)504-1961",
+            "address": "375 Moore Groves Apt. 529\nJordanhaven, SD 63786"
+        },
+        "transaction_date": "2024-05-07",
+        "shipping_method": "Two-Day",
+        "total_amount": 929.95,
+        "shopping_cart": [
+            {
+                "product_id": "f14badf9-41b5-4b73-82fb-8a8fd0d642f6",
+                "product_category": "Office Equipment",
+                "product_name": "External Hard Drive",
+                "quantity": 2,
+                "price": 89.99
+            },
+            {
+                "product_id": "85a5f748-933d-4297-b2e1-10d57a1fb4f4",
+                "product_category": "Office Equipment",
+                "product_name": "Office Desk",
+                "quantity": 3,
+                "price": 249.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "87baba74-1fe5-460f-bdc6-65482ca064e3",
+        "customer": {
+            "customer_id": "0a27217b-843e-4c68-b778-7621baccbab1",
+            "name": "Sarah Brown",
+            "email": "liurichard@example.org",
+            "phone": "614.300.0414",
+            "address": "415 Vincent Springs\nWest Jennaborough, CO 50215"
+        },
+        "transaction_date": "2024-05-07",
+        "shipping_method": "Expedited",
+        "total_amount": 119.98,
+        "shopping_cart": [
+            {
+                "product_id": "3f22f040-8162-48ed-a7fb-762b57a3abf5",
+                "product_category": "Personal Care",
+                "product_name": "Hair Dryer",
+                "quantity": 2,
+                "price": 59.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "3934b0fa-5aab-4375-975c-b31b8e15bf27",
+        "customer": {
+            "customer_id": "c35f0854-f3c6-40f2-8791-53d17c306179",
+            "name": "Rebecca Pittman",
+            "email": "ndrake@example.net",
+            "phone": "001-394-218-3782x922",
+            "address": "2671 Lee Glen\nBoltonfort, VT 28590"
+        },
+        "transaction_date": "2024-06-21",
+        "shipping_method": "Expedited",
+        "total_amount": 1909.94,
+        "shopping_cart": [
+            {
+                "product_id": "4f1ac29a-cc97-4ed2-8ff8-89cb823ce3a2",
+                "product_category": "Office Equipment",
+                "product_name": "USB Flash Drive",
+                "quantity": 1,
+                "price": 19.99
+            },
+            {
+                "product_id": "c1894027-55de-40b7-91a6-4ba3f14bd401",
+                "product_category": "Home Appliances",
+                "product_name": "Refrigerator",
+                "quantity": 1,
+                "price": 1299.99
+            },
+            {
+                "product_id": "2c93e581-5876-4537-b354-1aba81015172",
+                "product_category": "Fitness",
+                "product_name": "Fitness Tracker",
+                "quantity": 3,
+                "price": 129.99
+            },
+            {
+                "product_id": "62bd3ebf-efde-4870-af9c-34d3c71575a6",
+                "product_category": "Home Appliances",
+                "product_name": "Dehumidifier",
+                "quantity": 1,
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "ba0a4fce-bfac-40ca-80c3-bd1c37945da5",
+        "customer": {
+            "customer_id": "8d7ce89f-ccaf-4f1f-ac76-1f8b86a81460",
+            "name": "Sara Phillips",
+            "email": "jessicawood@example.net",
+            "phone": "(227)850-8112",
+            "address": "USS Fowler\nFPO AA 72275"
+        },
+        "transaction_date": "2024-05-24",
+        "shipping_method": "Expedited",
+        "total_amount": 629.96,
+        "shopping_cart": [
+            {
+                "product_id": "fd7e717c-1e0e-4874-ba4e-fbfe32e6181a",
+                "product_category": "Smart Home",
+                "product_name": "Smart Home Hub",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "071bd9ac-1349-46b2-81c9-43e0b728bf96",
+                "product_category": "Fitness",
+                "product_name": "Yoga Mat",
+                "quantity": 1,
+                "price": 29.99
+            },
+            {
+                "product_id": "fbed16d7-e6e1-47ec-82ae-5420e4c1d04e",
+                "product_category": "Smart Home",
+                "product_name": "Smart Thermostat",
+                "quantity": 1,
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "7a9465cc-a211-49dd-a3b5-4375dcfc98da",
+        "customer": {
+            "customer_id": "1b4a1483-d3af-4a76-bef9-f5f5ed5f2ca3",
+            "name": "Derek Drake",
+            "email": "kimberly64@example.org",
+            "phone": "001-383-757-3798x290",
+            "address": "027 Steven Views\nNew Stevenmouth, VI 59425"
+        },
+        "transaction_date": "2024-04-03",
+        "shipping_method": "Overnight",
+        "total_amount": 2489.94,
+        "shopping_cart": [
+            {
+                "product_id": "4ec93838-796d-48e5-b6e4-5608f35fa574",
+                "product_category": "Electronics",
+                "product_name": "Gaming Laptop",
+                "quantity": 1,
+                "price": 1599.99
+            },
+            {
+                "product_id": "03462841-701c-45c2-bed4-92b2187a4def",
+                "product_category": "Office Equipment",
+                "product_name": "Standing Desk",
+                "quantity": 2,
+                "price": 399.99
+            },
+            {
+                "product_id": "5f7a2cfa-5fcd-40de-bf1a-4580b54af83f",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Toaster",
+                "quantity": 3,
+                "price": 29.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "ef4a2188-2103-47e2-bc9b-b45b102e5bb1",
+        "customer": {
+            "customer_id": "90a41812-5d21-487c-87d2-b82794ced768",
+            "name": "Mr. Nathaniel Goodwin",
+            "email": "donald76@example.com",
+            "phone": "(720)606-3783x33624",
+            "address": "Unit 4417 Box 3975\nDPO AE 11916"
+        },
+        "transaction_date": "2023-11-13",
+        "shipping_method": "Standard",
+        "total_amount": 3559.94,
+        "shopping_cart": [
+            {
+                "product_id": "51429c28-eb03-43e1-ad18-498040903c9a",
+                "product_category": "Personal Care",
+                "product_name": "Electric Shaver",
+                "quantity": 3,
+                "price": 89.99
+            },
+            {
+                "product_id": "d9f9ae58-8548-4089-a234-efcb73943f11",
+                "product_category": "Office Equipment",
+                "product_name": "External Hard Drive",
+                "quantity": 1,
+                "price": 89.99
+            },
+            {
+                "product_id": "f666f5d4-0d24-4c6e-bb66-02475213cb03",
+                "product_category": "Electronics",
+                "product_name": "Gaming Laptop",
+                "quantity": 2,
+                "price": 1599.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "46eee2ec-e44e-4572-b70b-1d95be66b717",
+        "customer": {
+            "customer_id": "174a92ba-946c-4339-9b5c-7c740ef90abb",
+            "name": "Daniel Weaver",
+            "email": "stewartnathan@example.org",
+            "phone": "(450)278-6804x0415",
+            "address": "029 Doris Canyon\nLake Jimmyside, UT 05159"
+        },
+        "transaction_date": "2024-07-04",
+        "shipping_method": "Two-Day",
+        "total_amount": 2349.97,
+        "shopping_cart": [
+            {
+                "product_id": "6f6ec387-99a7-4036-b11a-78a96a546604",
+                "product_category": "Personal Care",
+                "product_name": "Hair Straightener",
+                "quantity": 1,
+                "price": 49.99
+            },
+            {
+                "product_id": "33de5dc8-1352-430b-9013-085b4e02c363",
+                "product_category": "Electronics",
+                "product_name": "Smart TV",
+                "quantity": 1,
+                "price": 999.99
+            },
+            {
+                "product_id": "30378d6f-8d15-4411-8e3b-c61438e77b2e",
+                "product_category": "Home Appliances",
+                "product_name": "Refrigerator",
+                "quantity": 1,
+                "price": 1299.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "5738f39f-7f02-46db-8cf2-f2236e64f76c",
+        "customer": {
+            "customer_id": "4168ddc6-8969-4050-9fbf-ac32408115f3",
+            "name": "Theresa Diaz",
+            "email": "tluna@example.net",
+            "phone": "612.437.6218x60216",
+            "address": "48851 Kelly Land Apt. 265\nLake Mary, DE 83527"
+        },
+        "transaction_date": "2023-12-06",
+        "shipping_method": "Expedited",
+        "total_amount": 1399.95,
+        "shopping_cart": [
+            {
+                "product_id": "f2e94098-e581-4063-b6e1-eb1d8833f1ce",
+                "product_category": "Home Appliances",
+                "product_name": "Water Purifier",
+                "quantity": 2,
+                "price": 249.99
+            },
+            {
+                "product_id": "064965f5-2401-4450-9981-23e18c66906b",
+                "product_category": "Home Appliances",
+                "product_name": "Air Conditioner",
+                "quantity": 3,
+                "price": 299.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "0ba4c45b-d8bb-4174-9c4f-3ce70276f5bb",
+        "customer": {
+            "customer_id": "3cd1a6dc-dfbb-437a-9973-aafa34846235",
+            "name": "Steven Hernandez",
+            "email": "jmelton@example.org",
+            "phone": "504-562-2461x5078",
+            "address": "457 Lopez Trail Suite 119\nPort Rodney, KS 32327"
+        },
+        "transaction_date": "2023-10-20",
+        "shipping_method": "Overnight",
+        "total_amount": 2329.91,
+        "shopping_cart": [
+            {
+                "product_id": "82abaf72-c14d-4504-b93a-3e610fc1e2ba",
+                "product_category": "Office Equipment",
+                "product_name": "Mouse",
+                "quantity": 2,
+                "price": 39.99
+            },
+            {
+                "product_id": "eee0849d-4562-400b-88d4-3d81ac742d70",
+                "product_category": "Electronics",
+                "product_name": "Smartwatch",
+                "quantity": 3,
+                "price": 299.99
+            },
+            {
+                "product_id": "585569f3-9845-47d3-9f76-3ec89a6702ca",
+                "product_category": "Office Equipment",
+                "product_name": "Laser Printer",
+                "quantity": 1,
+                "price": 299.99
+            },
+            {
+                "product_id": "e6c149f3-eb95-4dc5-83d0-28f246e09108",
+                "product_category": "Gaming",
+                "product_name": "Gaming Monitor",
+                "quantity": 3,
+                "price": 349.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "8fada27b-ea17-421e-a430-51afe79c5555",
+        "customer": {
+            "customer_id": "1e024d64-f0a6-4499-a41b-aa03ded779ee",
+            "name": "Jacob Little",
+            "email": "nelsoncatherine@example.org",
+            "phone": "(801)448-5510x928",
+            "address": "7988 Welch Neck Apt. 843\nLindaville, MS 29717"
+        },
+        "transaction_date": "2024-07-18",
+        "shipping_method": "Standard",
+        "total_amount": 99.98,
+        "shopping_cart": [
+            {
+                "product_id": "40892f83-9ee9-4eee-921f-a01c01836bfe",
+                "product_category": "Home Appliances",
+                "product_name": "Space Heater",
+                "quantity": 1,
+                "price": 69.99
+            },
+            {
+                "product_id": "b7a8aef6-0559-4c33-893d-062b8f326e11",
+                "product_category": "Fitness",
+                "product_name": "Yoga Mat",
+                "quantity": 1,
+                "price": 29.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "b52bce2d-3f88-4b5a-b33f-2414a7d79186",
+        "customer": {
+            "customer_id": "0c512ee5-dcd2-44a4-8e0a-1f1b77d3f7d2",
+            "name": "Laura Waters",
+            "email": "lisa36@example.com",
+            "phone": "235-306-5888x59834",
+            "address": "10339 Laura Glen\nLake Katie, OR 19061"
+        },
+        "transaction_date": "2023-09-03",
+        "shipping_method": "Expedited",
+        "total_amount": 3019.93,
+        "shopping_cart": [
+            {
+                "product_id": "05606be9-ce01-4a4e-a014-06f51a8d0092",
+                "product_category": "Office Equipment",
+                "product_name": "Office Desk",
+                "quantity": 2,
+                "price": 249.99
+            },
+            {
+                "product_id": "6bf5228b-7dff-4870-9387-eb0ac3c27ac8",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Blender",
+                "quantity": 1,
+                "price": 89.99
+            },
+            {
+                "product_id": "12e05e81-8c98-49e9-9d8a-17edb8189e21",
+                "product_category": "Entertainment",
+                "product_name": "Television",
+                "quantity": 3,
+                "price": 799.99
+            },
+            {
+                "product_id": "2e228b51-1a26-4e22-816e-e9c0f83f5dc0",
+                "product_category": "Smart Home",
+                "product_name": "Smart Light Bulb",
+                "quantity": 1,
+                "price": 29.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "4bb82748-06e9-49df-b2cc-72c172eb641b",
+        "customer": {
+            "customer_id": "807b8dd5-5bc7-4e8a-91f4-05728033780c",
+            "name": "Eric Sutton",
+            "email": "chavezjesse@example.org",
+            "phone": "7123472373",
+            "address": "6567 Hill Inlet\nLake Joshua, UT 48868"
+        },
+        "transaction_date": "2023-11-16",
+        "shipping_method": "Expedited",
+        "total_amount": 1199.99,
+        "shopping_cart": [
+            {
+                "product_id": "dd68c33d-cec7-44d9-96f7-5b554a866b53",
+                "product_category": "Electronics",
+                "product_name": "4K TV",
+                "quantity": 1,
+                "price": 1199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "4f8908d3-9128-4527-9167-6004ba20fc5d",
+        "customer": {
+            "customer_id": "a75d8dde-abb7-45df-acae-5fce74966f37",
+            "name": "Craig Hicks",
+            "email": "lisa19@example.org",
+            "phone": "293.387.2322x0132",
+            "address": "27700 Andrews Passage\nLake Timothy, NM 12888"
+        },
+        "transaction_date": "2023-11-08",
+        "shipping_method": "Overnight",
+        "total_amount": 2959.91,
+        "shopping_cart": [
+            {
+                "product_id": "a4e33f5d-c8bd-4b01-9224-4bade9d078b3",
+                "product_category": "Electronics",
+                "product_name": "Smartphone",
+                "quantity": 3,
+                "price": 699.99
+            },
+            {
+                "product_id": "1ae41fc0-8ba6-4fb2-8d1d-6cbd7f71f351",
+                "product_category": "Smart Home",
+                "product_name": "Smart Home Hub",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "fcd91606-99d7-4395-a6f9-44fe29424570",
+                "product_category": "Smart Home",
+                "product_name": "Smart Thermostat",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "0ae93a5b-7d7b-4e12-a678-deb6553f489d",
+                "product_category": "Smart Home",
+                "product_name": "Smart Light Bulb",
+                "quantity": 2,
+                "price": 29.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "bd736816-6aee-4ce3-b422-215d4ab4536c",
+        "customer": {
+            "customer_id": "71ce9352-bdcb-4ffb-8c70-fedf65a59860",
+            "name": "John Rogers",
+            "email": "annevillegas@example.net",
+            "phone": "+1-984-743-8572x9091",
+            "address": "3825 Linda Mews Apt. 646\nJenniferburgh, IL 74750"
+        },
+        "transaction_date": "2023-08-21",
+        "shipping_method": "Two-Day",
+        "total_amount": 6649.92,
+        "shopping_cart": [
+            {
+                "product_id": "6279950e-b125-44da-9f67-8801fdf82133",
+                "product_category": "Electronics",
+                "product_name": "Gaming Laptop",
+                "quantity": 1,
+                "price": 1599.99
+            },
+            {
+                "product_id": "5203b080-7808-4c7a-a13c-adb4032f4c3a",
+                "product_category": "Electronics",
+                "product_name": "Smartphone",
+                "quantity": 3,
+                "price": 699.99
+            },
+            {
+                "product_id": "f493f9a5-3b67-41ab-8869-4b3b916b5bf5",
+                "product_category": "Photography",
+                "product_name": "Action Camera",
+                "quantity": 1,
+                "price": 399.99
+            },
+            {
+                "product_id": "05285b0b-3163-49d4-adba-643e6790cf46",
+                "product_category": "Electronics",
+                "product_name": "Bluetooth Speaker",
+                "quantity": 1,
+                "price": 149.99
+            },
+            {
+                "product_id": "402e2bd7-1d36-4e2f-9b01-dc982a97a932",
+                "product_category": "Electronics",
+                "product_name": "Laptop",
+                "quantity": 2,
+                "price": 1199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "847ac002-3c66-4331-9b12-af7d855a0eeb",
+        "customer": {
+            "customer_id": "f77fbb61-261f-4620-8bab-821f5762ef44",
+            "name": "Karen Diaz",
+            "email": "lrogers@example.com",
+            "phone": "(937)533-3724",
+            "address": "137 Greg Branch Suite 250\nJoelview, NE 82441"
+        },
+        "transaction_date": "2023-11-08",
+        "shipping_method": "Two-Day",
+        "total_amount": 5009.89,
+        "shopping_cart": [
+            {
+                "product_id": "fcc44b7f-e271-41f6-b929-21acd29375ba",
+                "product_category": "Personal Care",
+                "product_name": "Hair Straightener",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "90b69d98-57b7-43eb-8154-ef1dc32cc64e",
+                "product_category": "Fitness",
+                "product_name": "Fitness Tracker",
+                "quantity": 2,
+                "price": 129.99
+            },
+            {
+                "product_id": "b83e6ee1-447d-4603-a2de-ef69261f39d8",
+                "product_category": "Electronics",
+                "product_name": "Laptop",
+                "quantity": 2,
+                "price": 1199.99
+            },
+            {
+                "product_id": "05dfa40d-e7e8-4573-8920-3580a5fb2355",
+                "product_category": "Home Appliances",
+                "product_name": "Refrigerator",
+                "quantity": 1,
+                "price": 1299.99
+            },
+            {
+                "product_id": "02b54816-a598-4b4a-a897-be3a0c53f78e",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Stand Mixer",
+                "quantity": 3,
+                "price": 299.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "ec1e6e69-5343-4315-b501-2dc4bee6d4a6",
+        "customer": {
+            "customer_id": "832ac93c-09df-4a90-80bb-430a2e1c6e26",
+            "name": "Andrea Barnes",
+            "email": "eestrada@example.com",
+            "phone": "928-254-5007",
+            "address": "4813 Harold Camp Apt. 206\nJoneshaven, TN 51536"
+        },
+        "transaction_date": "2024-04-28",
+        "shipping_method": "Overnight",
+        "total_amount": 1169.92,
+        "shopping_cart": [
+            {
+                "product_id": "d5435d77-d1c2-45cd-b219-fe419332243e",
+                "product_category": "Personal Care",
+                "product_name": "Facial Steamer",
+                "quantity": 2,
+                "price": 79.99
+            },
+            {
+                "product_id": "1ae41fc0-8ba6-4fb2-8d1d-6cbd7f71f351",
+                "product_category": "Smart Home",
+                "product_name": "Smart Home Hub",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "596ad329-16c0-4845-92f2-4d2ddeac472c",
+                "product_category": "Home Appliances",
+                "product_name": "Space Heater",
+                "quantity": 3,
+                "price": 69.99
+            },
+            {
+                "product_id": "90794844-266d-41fe-966c-60175a5e4763",
+                "product_category": "Home Appliances",
+                "product_name": "Robot Vacuum",
+                "quantity": 1,
+                "price": 399.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "217c2f97-46de-4064-816c-1df6cc1b8723",
+        "customer": {
+            "customer_id": "1f3bf508-f920-47dc-96d1-2ffeae0007f1",
+            "name": "Timothy Price",
+            "email": "taylormarquez@example.org",
+            "phone": "6234867609",
+            "address": "94312 Rice Court Suite 003\nMorganshire, CT 76496"
+        },
+        "transaction_date": "2024-01-14",
+        "shipping_method": "Standard",
+        "total_amount": 449.97,
+        "shopping_cart": [
+            {
+                "product_id": "f3c25e99-3358-46f2-9717-008332f7ffb2",
+                "product_category": "Home Appliances",
+                "product_name": "Ceiling Fan",
+                "quantity": 3,
+                "price": 149.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "e7c534dd-1b21-4dcc-b628-82741d8ad80a",
+        "customer": {
+            "customer_id": "4fae986b-be83-43de-b727-ebada39e7b8c",
+            "name": "Kimberly Robinson",
+            "email": "matthewcooper@example.net",
+            "phone": "282.567.1138x184",
+            "address": "5628 Elizabeth Springs Apt. 008\nGeorgeborough, OR 07781"
+        },
+        "transaction_date": "2024-03-24",
+        "shipping_method": "Two-Day",
+        "total_amount": 489.95,
+        "shopping_cart": [
+            {
+                "product_id": "5bb51190-2dc1-42c2-868d-f24e7db7585d",
+                "product_category": "Personal Care",
+                "product_name": "Electric Toothbrush",
+                "quantity": 1,
+                "price": 99.99
+            },
+            {
+                "product_id": "ef594d62-cc39-4398-8ae3-ed9843957ad5",
+                "product_category": "Office Equipment",
+                "product_name": "Laser Printer",
+                "quantity": 1,
+                "price": 299.99
+            },
+            {
+                "product_id": "d57127f2-60ee-4a4f-bf5a-284710350dfa",
+                "product_category": "Smart Home",
+                "product_name": "Smart Light Bulb",
+                "quantity": 3,
+                "price": 29.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "d81d3d34-20fd-493f-b798-c7b95a487dd8",
+        "customer": {
+            "customer_id": "f96d18b4-f361-4b3f-a298-063cc197dbe7",
+            "name": "Cynthia Rodriguez",
+            "email": "whitney01@example.com",
+            "phone": "001-261-538-6829x2128",
+            "address": "3153 Stephanie Keys Suite 248\nNorth Theodore, CT 85336"
+        },
+        "transaction_date": "2024-03-01",
+        "shipping_method": "Standard",
+        "total_amount": 99.99,
+        "shopping_cart": [
+            {
+                "product_id": "43e340e9-eaf1-41ff-9a0a-b68835125dd3",
+                "product_category": "Personal Care",
+                "product_name": "Electric Toothbrush",
+                "quantity": 1,
+                "price": 99.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "23774231-5cbd-4e46-8926-400c92997e23",
+        "customer": {
+            "customer_id": "92958464-1c3a-4457-a396-07c4789365c6",
+            "name": "Lori Decker",
+            "email": "rrichardson@example.com",
+            "phone": "679.519.3394",
+            "address": "54823 Weber Drive\nNorth Matthewfurt, SD 50384"
+        },
+        "transaction_date": "2024-04-16",
+        "shipping_method": "Expedited",
+        "total_amount": 979.95,
+        "shopping_cart": [
+            {
+                "product_id": "a573f1c7-fcf8-4cd1-a115-f5304dbc4766",
+                "product_category": "Electronics",
+                "product_name": "Smartwatch",
+                "quantity": 3,
+                "price": 299.99
+            },
+            {
+                "product_id": "32addcea-cd32-4ec4-b7db-8b0fd717e66c",
+                "product_category": "Office Equipment",
+                "product_name": "Mouse",
+                "quantity": 2,
+                "price": 39.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "72e6a818-c4ce-4167-a915-576e3a83e8ab",
+        "customer": {
+            "customer_id": "eed46833-5dff-48bf-9d16-2ce3664bc385",
+            "name": "Michelle Ellison",
+            "email": "timothymonroe@example.org",
+            "phone": "963.713.9329x805",
+            "address": "140 Dunlap Camp Apt. 317\nDavidchester, MO 43477"
+        },
+        "transaction_date": "2024-06-20",
+        "shipping_method": "Two-Day",
+        "total_amount": 2699.91,
+        "shopping_cart": [
+            {
+                "product_id": "9730921b-9809-40b8-a4e1-5da0d30ab2f3",
+                "product_category": "Office Equipment",
+                "product_name": "Inkjet Printer",
+                "quantity": 3,
+                "price": 199.99
+            },
+            {
+                "product_id": "c50c57d4-f2fd-4c51-ad73-12c1ab7ae61b",
+                "product_category": "Office Equipment",
+                "product_name": "Office Desk",
+                "quantity": 1,
+                "price": 249.99
+            },
+            {
+                "product_id": "95793030-d1f3-4b04-8012-5f814108cdff",
+                "product_category": "Gaming",
+                "product_name": "Gaming Monitor",
+                "quantity": 3,
+                "price": 349.99
+            },
+            {
+                "product_id": "a53f1b65-8aed-4487-a01c-49bc306e95af",
+                "product_category": "Home Appliances",
+                "product_name": "Robot Vacuum",
+                "quantity": 2,
+                "price": 399.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "6772966c-179e-4d5f-bc38-835e62ed10c5",
+        "customer": {
+            "customer_id": "a44b90f5-a179-48fd-84f5-9dfe6eac9981",
+            "name": "Stephanie Martinez",
+            "email": "andrewpayne@example.com",
+            "phone": "968-444-1884x798",
+            "address": "274 Zamora Orchard\nEast Sheenastad, MO 13163"
+        },
+        "transaction_date": "2024-02-13",
+        "shipping_method": "Expedited",
+        "total_amount": 1199.99,
+        "shopping_cart": [
+            {
+                "product_id": "b45351a1-4112-4cf5-8dc4-264f71cf1023",
+                "product_category": "Photography",
+                "product_name": "DSLR Camera",
+                "quantity": 1,
+                "price": 1199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "3e3b2bde-d744-41a4-9c6e-49668a13057f",
+        "customer": {
+            "customer_id": "3d3f24de-dbdc-4abe-a07b-72cc5d412796",
+            "name": "Michael Campos",
+            "email": "christielee@example.com",
+            "phone": "001-366-936-4722x1315",
+            "address": "4822 Susan Estates\nPort Larry, NV 88323"
+        },
+        "transaction_date": "2023-09-08",
+        "shipping_method": "Standard",
+        "total_amount": 5269.92,
+        "shopping_cart": [
+            {
+                "product_id": "70f16974-561b-4347-b83f-6f4c046d60cd",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Slow Cooker",
+                "quantity": 1,
+                "price": 59.99
+            },
+            {
+                "product_id": "c1894027-55de-40b7-91a6-4ba3f14bd401",
+                "product_category": "Home Appliances",
+                "product_name": "Refrigerator",
+                "quantity": 3,
+                "price": 1299.99
+            },
+            {
+                "product_id": "717234ec-fc07-4386-8999-183b8eb5d5bf",
+                "product_category": "Home Appliances",
+                "product_name": "Iron",
+                "quantity": 1,
+                "price": 49.99
+            },
+            {
+                "product_id": "61dfa55d-d182-4609-9506-d28c486d651c",
+                "product_category": "Electronics",
+                "product_name": "Smart TV",
+                "quantity": 1,
+                "price": 999.99
+            },
+            {
+                "product_id": "ecbe025e-1f20-4bcd-90e1-2d6d6aaaa826",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Coffee Maker",
+                "quantity": 2,
+                "price": 129.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "1c3bcdf7-88d4-4457-97e6-7efbde48b584",
+        "customer": {
+            "customer_id": "8fd135e3-94aa-45b2-b9fc-fd5793aefe44",
+            "name": "Laurie Sanchez",
+            "email": "david71@example.org",
+            "phone": "249-630-3577",
+            "address": "330 Williams Village Suite 265\nWest Maurice, WY 21356"
+        },
+        "transaction_date": "2024-06-21",
+        "shipping_method": "Standard",
+        "total_amount": 1679.89,
+        "shopping_cart": [
+            {
+                "product_id": "e0ea78e6-e221-4457-8f5c-09e8b62ed90d",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Stand Mixer",
+                "quantity": 2,
+                "price": 299.99
+            },
+            {
+                "product_id": "82fc62f5-0e7a-4eea-a326-d38b9a98eba5",
+                "product_category": "Home Appliances",
+                "product_name": "Ceiling Fan",
+                "quantity": 1,
+                "price": 149.99
+            },
+            {
+                "product_id": "5fa6d71b-7972-4489-b476-a8116c2c0430",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Slow Cooker",
+                "quantity": 3,
+                "price": 59.99
+            },
+            {
+                "product_id": "90784f3e-c162-4774-b3f9-edb4ab76af36",
+                "product_category": "Office Equipment",
+                "product_name": "Desk Chair",
+                "quantity": 2,
+                "price": 149.99
+            },
+            {
+                "product_id": "c9898d74-7b5b-4ab6-b249-f4e5d8ef54e1",
+                "product_category": "Office Equipment",
+                "product_name": "Router",
+                "quantity": 3,
+                "price": 149.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "5790c8ae-077a-4aba-9c2f-afb5e5ef0d89",
+        "customer": {
+            "customer_id": "6b195979-3fb8-416e-9deb-0c9f30fe27c1",
+            "name": "Chad Warren",
+            "email": "roberthamilton@example.org",
+            "phone": "001-831-249-0345x799",
+            "address": "3491 Thomas Forges Apt. 940\nLake Annton, DC 55657"
+        },
+        "transaction_date": "2024-06-08",
+        "shipping_method": "Standard",
+        "total_amount": 6909.89,
+        "shopping_cart": [
+            {
+                "product_id": "845c6ac7-92b0-4ba0-8197-438f2fef7027",
+                "product_category": "Home Appliances",
+                "product_name": "Space Heater",
+                "quantity": 3,
+                "price": 69.99
+            },
+            {
+                "product_id": "8dedf09a-cb8b-438c-869c-4c3b6c7a586b",
+                "product_category": "Fitness",
+                "product_name": "Exercise Bike",
+                "quantity": 1,
+                "price": 499.99
+            },
+            {
+                "product_id": "d18da751-05d1-4fb4-b50a-f026ed5a610a",
+                "product_category": "Electronics",
+                "product_name": "4K TV",
+                "quantity": 3,
+                "price": 1199.99
+            },
+            {
+                "product_id": "d7d579b1-69c4-4a4f-811f-9b49a078fb26",
+                "product_category": "Entertainment",
+                "product_name": "Television",
+                "quantity": 2,
+                "price": 799.99
+            },
+            {
+                "product_id": "9d652682-581f-4fbc-aa41-d8ddac2f6292",
+                "product_category": "Gaming",
+                "product_name": "Gaming Console",
+                "quantity": 2,
+                "price": 499.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "cd8fb32d-d145-4ebb-aefa-a14a9304f32c",
+        "customer": {
+            "customer_id": "319822a5-ff29-49b8-b520-687b945d6238",
+            "name": "Melissa Nelson",
+            "email": "darren51@example.com",
+            "phone": "+1-860-926-8222x10704",
+            "address": "00229 Benson Mews\nEast Robert, TN 38800"
+        },
+        "transaction_date": "2024-02-26",
+        "shipping_method": "Expedited",
+        "total_amount": 99.99,
+        "shopping_cart": [
+            {
+                "product_id": "dac8dbb1-995e-421f-9268-788afa01797b",
+                "product_category": "Gaming",
+                "product_name": "Gaming Keyboard",
+                "quantity": 1,
+                "price": 99.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "80d315ed-4fe3-483d-8c4a-14a317ff4a00",
+        "customer": {
+            "customer_id": "c7963efd-ad1e-4d0a-a430-71f63865b108",
+            "name": "Judith Gibbs",
+            "email": "julia07@example.org",
+            "phone": "001-740-320-9653",
+            "address": "610 Joseph Islands\nPort Theresaton, DE 14253"
+        },
+        "transaction_date": "2023-11-19",
+        "shipping_method": "Two-Day",
+        "total_amount": 459.97,
+        "shopping_cart": [
+            {
+                "product_id": "b68150b6-c574-4bde-8c97-43c376a2e365",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Slow Cooker",
+                "quantity": 1,
+                "price": 59.99
+            },
+            {
+                "product_id": "ede7012d-7f64-4854-87f5-e7eee37541e7",
+                "product_category": "Home Appliances",
+                "product_name": "Vacuum Cleaner",
+                "quantity": 2,
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "279b34d7-e1b7-4df7-ad8a-a0990b2679df",
+        "customer": {
+            "customer_id": "73171c98-ba36-4e07-8f81-b9dcff510837",
+            "name": "Pamela Gomez",
+            "email": "bryannewton@example.org",
+            "phone": "216.437.6808x66544",
+            "address": "242 Matthews Ridge Suite 363\nBakerhaven, NV 93549"
+        },
+        "transaction_date": "2023-10-06",
+        "shipping_method": "Expedited",
+        "total_amount": 2499.88,
+        "shopping_cart": [
+            {
+                "product_id": "705e9869-8bc5-4761-a5ab-235f1505063e",
+                "product_category": "Personal Care",
+                "product_name": "Electric Toothbrush",
+                "quantity": 3,
+                "price": 99.99
+            },
+            {
+                "product_id": "beae1db4-5081-42f5-871a-61ba5b8be614",
+                "product_category": "Fitness",
+                "product_name": "Exercise Bike",
+                "quantity": 3,
+                "price": 499.99
+            },
+            {
+                "product_id": "fcc44b7f-e271-41f6-b929-21acd29375ba",
+                "product_category": "Personal Care",
+                "product_name": "Hair Straightener",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "fbed16d7-e6e1-47ec-82ae-5420e4c1d04e",
+                "product_category": "Smart Home",
+                "product_name": "Smart Thermostat",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "3eb3c33e-9795-4cc9-a2fc-d146807b67d0",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Food Processor",
+                "quantity": 1,
+                "price": 149.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "f15055fc-f412-4ef9-aeb3-c5038ef3591a",
+        "customer": {
+            "customer_id": "45fb6e0f-646c-4d49-847d-16973e844339",
+            "name": "Ronald Green",
+            "email": "jonathon73@example.com",
+            "phone": "+1-573-959-1578",
+            "address": "USNV Tanner\nFPO AP 71564"
+        },
+        "transaction_date": "2023-12-02",
+        "shipping_method": "Two-Day",
+        "total_amount": 899.97,
+        "shopping_cart": [
+            {
+                "product_id": "31377a17-ef4d-479e-b3f5-3abc903a4687",
+                "product_category": "Office Equipment",
+                "product_name": "Laser Printer",
+                "quantity": 3,
+                "price": 299.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "c441b780-e4ec-4ebe-b0c4-2d12bd14529f",
+        "customer": {
+            "customer_id": "2a0b7238-e9a7-4f10-bf10-400cd58f8a61",
+            "name": "Alicia Li",
+            "email": "barajasvictoria@example.org",
+            "phone": "001-608-424-2636x9192",
+            "address": "02647 Thomas Point Suite 479\nMasseybury, VI 62849"
+        },
+        "transaction_date": "2024-06-01",
+        "shipping_method": "Standard",
+        "total_amount": 1879.92,
+        "shopping_cart": [
+            {
+                "product_id": "cb82b96c-9065-4a3b-bf1b-9f716c15f11c",
+                "product_category": "Home Appliances",
+                "product_name": "Iron",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "f54cbfc4-828a-4654-8a05-45fe934dbaed",
+                "product_category": "Home Appliances",
+                "product_name": "Refrigerator",
+                "quantity": 1,
+                "price": 1299.99
+            },
+            {
+                "product_id": "b1c12014-4b08-4197-94aa-5aca95c5fd49",
+                "product_category": "Personal Care",
+                "product_name": "Hair Dryer",
+                "quantity": 3,
+                "price": 59.99
+            },
+            {
+                "product_id": "bfb9e008-b8c2-4c91-ae5c-2b55143cd055",
+                "product_category": "Smart Home",
+                "product_name": "Smart Door Lock",
+                "quantity": 1,
+                "price": 249.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "6f876bed-af4e-4295-ad31-07ce0d461b46",
+        "customer": {
+            "customer_id": "7947bfa1-931b-4a30-ad33-02f42bb9a563",
+            "name": "Olivia Anderson",
+            "email": "carpentertracy@example.com",
+            "phone": "(949)268-7220",
+            "address": "93779 Rebecca Views\nEast Ericland, SC 82261"
+        },
+        "transaction_date": "2024-07-19",
+        "shipping_method": "Standard",
+        "total_amount": 1739.92,
+        "shopping_cart": [
+            {
+                "product_id": "8e2a8206-dcf9-44b6-96e6-32d9f1cd72a0",
+                "product_category": "Personal Care",
+                "product_name": "Electric Shaver",
+                "quantity": 1,
+                "price": 89.99
+            },
+            {
+                "product_id": "ebcc8210-5d8d-4d38-8e84-fe4ede5944fc",
+                "product_category": "Electronics",
+                "product_name": "Smartwatch",
+                "quantity": 1,
+                "price": 299.99
+            },
+            {
+                "product_id": "4a2de4bf-d36f-4c62-9862-8d2669818347",
+                "product_category": "Gaming",
+                "product_name": "Gaming Monitor",
+                "quantity": 3,
+                "price": 349.99
+            },
+            {
+                "product_id": "15519b45-a305-45a1-be3d-4dd5a41859fb",
+                "product_category": "Gaming",
+                "product_name": "Gaming Keyboard",
+                "quantity": 3,
+                "price": 99.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "dd8a2b23-8925-4fd2-aaee-8fbbaa415655",
+        "customer": {
+            "customer_id": "27df41ba-1b23-47d2-8ec5-577a9c305e14",
+            "name": "Frederick Williams",
+            "email": "andreclark@example.com",
+            "phone": "+1-759-692-5919",
+            "address": "38600 Ramsey Course Apt. 333\nNew Karina, VA 30539"
+        },
+        "transaction_date": "2023-09-26",
+        "shipping_method": "Standard",
+        "total_amount": 1989.92,
+        "shopping_cart": [
+            {
+                "product_id": "a11af659-b0e8-42a9-a9cd-a1e9398cc1f2",
+                "product_category": "Home Appliances",
+                "product_name": "Vacuum Cleaner",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "14e83bb3-daf0-4bd8-838d-c4c6cedd1b7c",
+                "product_category": "Office Equipment",
+                "product_name": "Laser Printer",
+                "quantity": 3,
+                "price": 299.99
+            },
+            {
+                "product_id": "15822e3c-c6b7-434d-bf38-362375320723",
+                "product_category": "Electronics",
+                "product_name": "Smartwatch",
+                "quantity": 2,
+                "price": 299.99
+            },
+            {
+                "product_id": "d9f9ae58-8548-4089-a234-efcb73943f11",
+                "product_category": "Office Equipment",
+                "product_name": "External Hard Drive",
+                "quantity": 1,
+                "price": 89.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "69d7d8f3-173b-483a-a092-03c4c2b7836e",
+        "customer": {
+            "customer_id": "a6334f41-89c6-4f81-90e0-f9a0f992663a",
+            "name": "Kathy Sullivan",
+            "email": "savagepaul@example.com",
+            "phone": "711.545.0167",
+            "address": "435 Melinda Forks Suite 461\nMorrisonport, IN 51882"
+        },
+        "transaction_date": "2023-10-19",
+        "shipping_method": "Overnight",
+        "total_amount": 1969.94,
+        "shopping_cart": [
+            {
+                "product_id": "285e65a5-cd87-4094-81fe-c7a22b072603",
+                "product_category": "Office Equipment",
+                "product_name": "External Hard Drive",
+                "quantity": 3,
+                "price": 89.99
+            },
+            {
+                "product_id": "0fc534ec-cf33-4aef-8cc4-7257bdffbaa0",
+                "product_category": "Office Equipment",
+                "product_name": "Inkjet Printer",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "63f0d201-34e7-419f-ac00-95f5dc79585b",
+                "product_category": "Home Appliances",
+                "product_name": "Refrigerator",
+                "quantity": 1,
+                "price": 1299.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "127104fb-08b1-4035-b4b1-2ce5c3f5516e",
+        "customer": {
+            "customer_id": "7bdeabe8-fb0b-414e-8869-a3a9a24a8303",
+            "name": "Olivia Morgan",
+            "email": "svaughan@example.org",
+            "phone": "668-424-8374",
+            "address": "552 Angela Junctions\nWest Kellyside, MP 55596"
+        },
+        "transaction_date": "2024-02-19",
+        "shipping_method": "Standard",
+        "total_amount": 3449.94,
+        "shopping_cart": [
+            {
+                "product_id": "496f4e86-3ada-477c-9628-a0544e7bfce1",
+                "product_category": "Entertainment",
+                "product_name": "Home Theater System",
+                "quantity": 3,
+                "price": 999.99
+            },
+            {
+                "product_id": "b300571d-9b14-40d4-bd68-50d9b5966fc8",
+                "product_category": "Entertainment",
+                "product_name": "Blu-ray Player",
+                "quantity": 3,
+                "price": 149.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "38b1a001-5b2f-4f48-bf4f-5b9115baebc5",
+        "customer": {
+            "customer_id": "841d5048-1a0b-419f-8fda-691cf52a29a9",
+            "name": "John Anderson",
+            "email": "debra77@example.net",
+            "phone": "+1-492-321-1692x3866",
+            "address": "56851 Reed Inlet\nBensonmouth, NE 31279"
+        },
+        "transaction_date": "2024-02-15",
+        "shipping_method": "Two-Day",
+        "total_amount": 2199.95,
+        "shopping_cart": [
+            {
+                "product_id": "f464cab0-00df-49dc-93fe-edae5af15297",
+                "product_category": "Entertainment",
+                "product_name": "Television",
+                "quantity": 2,
+                "price": 799.99
+            },
+            {
+                "product_id": "79d83610-c957-4817-b858-eeb7fdb2bcbe",
+                "product_category": "Office Equipment",
+                "product_name": "Printer",
+                "quantity": 3,
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "dbe449ee-6b33-4fa9-bab1-2d0b6b6f6422",
+        "customer": {
+            "customer_id": "22aaecc9-cd75-4c21-bd59-9e814b488ef5",
+            "name": "Latasha Stein",
+            "email": "joannadavis@example.com",
+            "phone": "+1-393-591-7749x0526",
+            "address": "938 Jill Fork Suite 750\nHarttown, GU 65727"
+        },
+        "transaction_date": "2023-12-29",
+        "shipping_method": "Standard",
+        "total_amount": 1699.93,
+        "shopping_cart": [
+            {
+                "product_id": "0cf20510-65bd-4934-91b9-a7683099d46e",
+                "product_category": "Fitness",
+                "product_name": "Exercise Bike",
+                "quantity": 2,
+                "price": 499.99
+            },
+            {
+                "product_id": "9e9cf696-5ea5-4704-93b8-27a6c109c541",
+                "product_category": "Gaming",
+                "product_name": "VR Headset",
+                "quantity": 1,
+                "price": 399.99
+            },
+            {
+                "product_id": "e8ddc7f1-62c0-406e-851b-a531ba0c6550",
+                "product_category": "Personal Care",
+                "product_name": "Hair Straightener",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "5bd8744f-7b09-44b2-8edb-bc49dff31f93",
+                "product_category": "Electronics",
+                "product_name": "Bluetooth Speaker",
+                "quantity": 1,
+                "price": 149.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "bf6e6e26-35bb-4e47-9dbf-5844d7463a15",
+        "customer": {
+            "customer_id": "1b070215-2d92-4668-b6c8-4daa94236b67",
+            "name": "Travis Turner",
+            "email": "fieldsmichael@example.net",
+            "phone": "(683)952-4223",
+            "address": "74923 Benjamin Loop Suite 215\nJeffreyhaven, SC 80552"
+        },
+        "transaction_date": "2024-06-02",
+        "shipping_method": "Two-Day",
+        "total_amount": 59.99,
+        "shopping_cart": [
+            {
+                "product_id": "0f6396ff-6c18-4a0e-a769-34f021436e94",
+                "product_category": "Gaming",
+                "product_name": "Gaming Mouse",
+                "quantity": 1,
+                "price": 59.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "2b5ff650-e67c-49bd-97d7-6d1b1fef6fdf",
+        "customer": {
+            "customer_id": "090735d7-cc19-4538-9126-fe76debaf0bd",
+            "name": "Tony Hicks",
+            "email": "blairlatoya@example.com",
+            "phone": "+1-670-354-9979x53882",
+            "address": "2592 Tammy Inlet\nJessicashire, DE 05543"
+        },
+        "transaction_date": "2023-07-28",
+        "shipping_method": "Overnight",
+        "total_amount": 59.98,
+        "shopping_cart": [
+            {
+                "product_id": "3909139d-6737-4e04-bad7-f49c0eb42742",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Toaster",
+                "quantity": 2,
+                "price": 29.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "da2af2c4-c638-4910-bacd-90ec20ef40c0",
+        "customer": {
+            "customer_id": "fcdc71ae-d9eb-433b-9c58-7b34b296a8b2",
+            "name": "James Stanley",
+            "email": "ianthomas@example.org",
+            "phone": "+1-387-655-4756x927",
+            "address": "90758 Mcgrath Creek\nMichelleburgh, PW 45631"
+        },
+        "transaction_date": "2023-08-27",
+        "shipping_method": "Standard",
+        "total_amount": 299.98,
+        "shopping_cart": [
+            {
+                "product_id": "a224e2ee-a061-4f32-9c66-449395aad6b8",
+                "product_category": "Electronics",
+                "product_name": "Bluetooth Speaker",
+                "quantity": 2,
+                "price": 149.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "e0c23863-56c2-450c-a8c1-9177b98c212b",
+        "customer": {
+            "customer_id": "d0e31d42-6dda-489a-9813-3ff0dcffc1c3",
+            "name": "Jerry Hernandez",
+            "email": "robertramirez@example.org",
+            "phone": "8666255901",
+            "address": "6951 Nash Falls\nRhondaberg, PR 94621"
+        },
+        "transaction_date": "2024-07-13",
+        "shipping_method": "Standard",
+        "total_amount": 3759.92,
+        "shopping_cart": [
+            {
+                "product_id": "b52ce2d4-756a-4553-828a-c0fabd6fce5b",
+                "product_category": "Electronics",
+                "product_name": "Tablet",
+                "quantity": 1,
+                "price": 499.99
+            },
+            {
+                "product_id": "c89d0238-56de-4239-88ed-016827239fa3",
+                "product_category": "Personal Care",
+                "product_name": "Facial Steamer",
+                "quantity": 2,
+                "price": 79.99
+            },
+            {
+                "product_id": "a49c085e-87f1-4a49-b4e1-79163d97932c",
+                "product_category": "Home Appliances",
+                "product_name": "Dryer",
+                "quantity": 3,
+                "price": 899.99
+            },
+            {
+                "product_id": "873ff2d5-15cc-41a2-a52a-615b66ddc603",
+                "product_category": "Electronics",
+                "product_name": "Wireless Earbuds",
+                "quantity": 2,
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "8f5e23c7-9bb7-4a6e-9da8-c36e263fab6c",
+        "customer": {
+            "customer_id": "cb3c76da-b57c-496b-95e6-32e6ebcc8cfb",
+            "name": "Amanda Murphy",
+            "email": "nicolefloyd@example.org",
+            "phone": "437-293-4437x937",
+            "address": "205 Matthew Prairie Apt. 030\nKristifort, MS 90372"
+        },
+        "transaction_date": "2024-01-02",
+        "shipping_method": "Overnight",
+        "total_amount": 2099.9,
+        "shopping_cart": [
+            {
+                "product_id": "1bc0440a-8e94-4f50-98dc-0852b34fa9ae",
+                "product_category": "Entertainment",
+                "product_name": "Soundbar",
+                "quantity": 3,
+                "price": 199.99
+            },
+            {
+                "product_id": "3bb8d57a-0e2e-4ccf-908d-b771705f66eb",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Microwave Oven",
+                "quantity": 3,
+                "price": 199.99
+            },
+            {
+                "product_id": "01c663d4-3f90-4b0c-909d-f6d624e7815d",
+                "product_category": "Home Appliances",
+                "product_name": "Ceiling Fan",
+                "quantity": 1,
+                "price": 149.99
+            },
+            {
+                "product_id": "a573f1c7-fcf8-4cd1-a115-f5304dbc4766",
+                "product_category": "Electronics",
+                "product_name": "Smartwatch",
+                "quantity": 2,
+                "price": 299.99
+            },
+            {
+                "product_id": "5c5683a8-1fa7-4c9a-ad1b-bc39c104436c",
+                "product_category": "Office Equipment",
+                "product_name": "Router",
+                "quantity": 1,
+                "price": 149.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "ca477e3f-c370-43cb-933a-86c2495f0fe1",
+        "customer": {
+            "customer_id": "c67280eb-688e-47dc-862c-04f7f1a86be1",
+            "name": "Elizabeth Daniel",
+            "email": "weavermichael@example.net",
+            "phone": "(966)931-9265",
+            "address": "26084 Mills Unions Suite 019\nSanchezstad, NH 56483"
+        },
+        "transaction_date": "2024-01-09",
+        "shipping_method": "Standard",
+        "total_amount": 3489.9,
+        "shopping_cart": [
+            {
+                "product_id": "4f385e10-d9e3-4a7c-88d8-8cd5cbdc1a7c",
+                "product_category": "Electronics",
+                "product_name": "Tablet",
+                "quantity": 3,
+                "price": 499.99
+            },
+            {
+                "product_id": "2914cc75-d355-47df-ad3d-a0aace0c3d4c",
+                "product_category": "Entertainment",
+                "product_name": "Soundbar",
+                "quantity": 1,
+                "price": 199.99
+            },
+            {
+                "product_id": "8bf07597-f8a9-430f-b39f-bd461182a333",
+                "product_category": "Fitness",
+                "product_name": "Treadmill",
+                "quantity": 2,
+                "price": 699.99
+            },
+            {
+                "product_id": "5e56c979-f724-4f57-bdac-d7b029b907cb",
+                "product_category": "Personal Care",
+                "product_name": "Electric Toothbrush",
+                "quantity": 3,
+                "price": 99.99
+            },
+            {
+                "product_id": "4e9f5a0d-4202-4a02-b18a-5be3d56c6b13",
+                "product_category": "Personal Care",
+                "product_name": "Electric Shaver",
+                "quantity": 1,
+                "price": 89.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "f307e147-8cca-4bbd-a0c5-ea5cfebd0bc5",
+        "customer": {
+            "customer_id": "50d461c2-e5fb-43af-a8f4-6e68d50496d5",
+            "name": "Michael Hill",
+            "email": "mary71@example.com",
+            "phone": "951.428.1080x4332",
+            "address": "94875 Fleming Lock Suite 070\nSouth Brandonville, SD 79393"
+        },
+        "transaction_date": "2024-01-18",
+        "shipping_method": "Standard",
+        "total_amount": 2299.94,
+        "shopping_cart": [
+            {
+                "product_id": "14e83bb3-daf0-4bd8-838d-c4c6cedd1b7c",
+                "product_category": "Office Equipment",
+                "product_name": "Laser Printer",
+                "quantity": 1,
+                "price": 299.99
+            },
+            {
+                "product_id": "d5d72573-75e8-4c84-b593-27e75b7363f5",
+                "product_category": "Office Equipment",
+                "product_name": "Inkjet Printer",
+                "quantity": 3,
+                "price": 199.99
+            },
+            {
+                "product_id": "5b4b49fb-c0d1-4542-875e-b934d5509118",
+                "product_category": "Fitness",
+                "product_name": "Treadmill",
+                "quantity": 2,
+                "price": 699.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "b6756966-b693-43e4-9297-c81ba74767eb",
+        "customer": {
+            "customer_id": "297e9b9a-d893-4102-8f3e-250e1d076300",
+            "name": "Christine Stewart",
+            "email": "curryhenry@example.net",
+            "phone": "270-707-4456",
+            "address": "02252 Oneill Prairie\nPort Christophermouth, DE 54508"
+        },
+        "transaction_date": "2024-05-03",
+        "shipping_method": "Standard",
+        "total_amount": 4249.89,
+        "shopping_cart": [
+            {
+                "product_id": "d430285f-cf14-4f12-821c-0ec6e77fe658",
+                "product_category": "Gaming",
+                "product_name": "Gaming Console",
+                "quantity": 3,
+                "price": 499.99
+            },
+            {
+                "product_id": "df74e78c-3018-4a33-81de-b123f70f79d1",
+                "product_category": "Gaming",
+                "product_name": "VR Headset",
+                "quantity": 2,
+                "price": 399.99
+            },
+            {
+                "product_id": "17b718b0-0e37-49a7-b6e2-11c71c7f8719",
+                "product_category": "Gaming",
+                "product_name": "VR Headset",
+                "quantity": 3,
+                "price": 399.99
+            },
+            {
+                "product_id": "f5d61901-41f7-47ab-be71-4bb8edc827a4",
+                "product_category": "Smart Home",
+                "product_name": "Smart Door Lock",
+                "quantity": 3,
+                "price": 249.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "2cbf1999-2481-41f6-a557-06070e4c5e89",
+        "customer": {
+            "customer_id": "333c6c3a-2001-47a0-b0e0-7f3a590c8b76",
+            "name": "Kristen Jones",
+            "email": "tuckertamara@example.org",
+            "phone": "001-656-361-6473",
+            "address": "5495 Campos Junctions Apt. 722\nPort Miranda, RI 94776"
+        },
+        "transaction_date": "2024-05-07",
+        "shipping_method": "Two-Day",
+        "total_amount": 1599.98,
+        "shopping_cart": [
+            {
+                "product_id": "a63af4b0-0cfd-4488-ad9f-0d6a12786d6d",
+                "product_category": "Home Appliances",
+                "product_name": "Dishwasher",
+                "quantity": 2,
+                "price": 799.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "25c0e943-0e7e-41ac-96e2-af6d20e8e6d0",
+        "customer": {
+            "customer_id": "a7c8d285-f1bc-403f-a830-e403968ea421",
+            "name": "Anthony Dixon",
+            "email": "wilsonamy@example.com",
+            "phone": "355-841-0561",
+            "address": "31407 Campbell Club Suite 428\nDavischester, ID 97714"
+        },
+        "transaction_date": "2024-01-08",
+        "shipping_method": "Two-Day",
+        "total_amount": 999.99,
+        "shopping_cart": [
+            {
+                "product_id": "33de5dc8-1352-430b-9013-085b4e02c363",
+                "product_category": "Electronics",
+                "product_name": "Smart TV",
+                "quantity": 1,
+                "price": 999.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "2da7610b-18b0-4de9-a5bb-58894d0efff1",
+        "customer": {
+            "customer_id": "1e20802c-3f14-40d4-95fa-d28e3aea0511",
+            "name": "Ryan Murphy",
+            "email": "ncole@example.net",
+            "phone": "+1-330-735-4958x1051",
+            "address": "4072 Heather Dale\nEast Sheena, IN 02833"
+        },
+        "transaction_date": "2023-08-13",
+        "shipping_method": "Overnight",
+        "total_amount": 1599.93,
+        "shopping_cart": [
+            {
+                "product_id": "248d78e5-141b-4706-9fe6-0ca9acb86981",
+                "product_category": "Smart Home",
+                "product_name": "Smart Door Lock",
+                "quantity": 2,
+                "price": 249.99
+            },
+            {
+                "product_id": "3c0b0d53-8626-4845-8589-6b2ef7254a45",
+                "product_category": "Photography",
+                "product_name": "Action Camera",
+                "quantity": 2,
+                "price": 399.99
+            },
+            {
+                "product_id": "b324c736-637f-405f-9a05-9625bf309d61",
+                "product_category": "Personal Care",
+                "product_name": "Electric Toothbrush",
+                "quantity": 3,
+                "price": 99.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "89d1f63f-4eaa-43b9-990b-f76ffe93da31",
+        "customer": {
+            "customer_id": "e1cea402-b873-4bc2-a0c0-e15a98553e3c",
+            "name": "Michelle Smith",
+            "email": "mayemily@example.com",
+            "phone": "+1-472-943-4486x370",
+            "address": "98142 Michael Manor Suite 601\nRayland, UT 40220"
+        },
+        "transaction_date": "2023-09-21",
+        "shipping_method": "Two-Day",
+        "total_amount": 599.94,
+        "shopping_cart": [
+            {
+                "product_id": "03275f77-8a87-4304-a865-54d6d961828b",
+                "product_category": "Fitness",
+                "product_name": "Dumbbells",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "c0f531d7-d483-4b47-8c69-c4077b04fe59",
+                "product_category": "Entertainment",
+                "product_name": "Blu-ray Player",
+                "quantity": 3,
+                "price": 149.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "d4592877-e875-4d25-b29b-99931754c41e",
+        "customer": {
+            "customer_id": "edd518e2-400f-4c8c-9c20-21883b829866",
+            "name": "Christina Carpenter",
+            "email": "dawn10@example.org",
+            "phone": "359.830.8311",
+            "address": "4204 Russell Walk Suite 491\nBrowntown, ME 41621"
+        },
+        "transaction_date": "2023-12-26",
+        "shipping_method": "Expedited",
+        "total_amount": 6129.9,
+        "shopping_cart": [
+            {
+                "product_id": "a5962688-f93a-4ea9-81ed-bb31e172873f",
+                "product_category": "Electronics",
+                "product_name": "Gaming Laptop",
+                "quantity": 2,
+                "price": 1599.99
+            },
+            {
+                "product_id": "6acaecd9-7529-4032-8c00-977cec6ec967",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Air Fryer",
+                "quantity": 1,
+                "price": 149.99
+            },
+            {
+                "product_id": "7781187d-bfcb-46df-b98c-4f96aedcad18",
+                "product_category": "Entertainment",
+                "product_name": "Home Theater System",
+                "quantity": 2,
+                "price": 999.99
+            },
+            {
+                "product_id": "3bb8d57a-0e2e-4ccf-908d-b771705f66eb",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Microwave Oven",
+                "quantity": 3,
+                "price": 199.99
+            },
+            {
+                "product_id": "51429c28-eb03-43e1-ad18-498040903c9a",
+                "product_category": "Personal Care",
+                "product_name": "Electric Shaver",
+                "quantity": 2,
+                "price": 89.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "3de1f457-f4eb-4364-9a58-2014fa684789",
+        "customer": {
+            "customer_id": "992a0a1d-388f-4947-9627-6165e74036e5",
+            "name": "Steven Salazar",
+            "email": "ghenderson@example.com",
+            "phone": "001-262-847-3575x356",
+            "address": "PSC 7043, Box 4263\nAPO AP 83177"
+        },
+        "transaction_date": "2024-06-28",
+        "shipping_method": "Expedited",
+        "total_amount": 3349.93,
+        "shopping_cart": [
+            {
+                "product_id": "12e05e81-8c98-49e9-9d8a-17edb8189e21",
+                "product_category": "Entertainment",
+                "product_name": "Television",
+                "quantity": 1,
+                "price": 799.99
+            },
+            {
+                "product_id": "822ea787-6924-43f4-9121-aae44a7ed609",
+                "product_category": "Office Equipment",
+                "product_name": "Desk Chair",
+                "quantity": 3,
+                "price": 149.99
+            },
+            {
+                "product_id": "27edbc9d-39b4-44bd-bf80-54da504addbe",
+                "product_category": "Fitness",
+                "product_name": "Treadmill",
+                "quantity": 3,
+                "price": 699.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "5a37476f-31c4-44a3-b451-d59efe5bc167",
+        "customer": {
+            "customer_id": "4f5e73b7-2161-4aec-9b03-2a21f18e1fac",
+            "name": "Rebecca Wilson",
+            "email": "elizabethrussell@example.net",
+            "phone": "001-269-821-9294x76762",
+            "address": "Unit 6626 Box 0214\nDPO AE 49176"
+        },
+        "transaction_date": "2024-06-03",
+        "shipping_method": "Two-Day",
+        "total_amount": 6799.9,
+        "shopping_cart": [
+            {
+                "product_id": "400ce36d-8fd0-419b-a113-53cc3cf75850",
+                "product_category": "Office Equipment",
+                "product_name": "Keyboard",
+                "quantity": 1,
+                "price": 49.99
+            },
+            {
+                "product_id": "a308d2eb-0309-43c2-a31b-08a142eb093c",
+                "product_category": "Electronics",
+                "product_name": "4K TV",
+                "quantity": 3,
+                "price": 1199.99
+            },
+            {
+                "product_id": "37cac1c5-7c98-466a-82fb-cdbc06d71cb8",
+                "product_category": "Fitness",
+                "product_name": "Treadmill",
+                "quantity": 3,
+                "price": 699.99
+            },
+            {
+                "product_id": "9b32a68a-554e-433f-a842-dd0fa7b2b09f",
+                "product_category": "Gaming",
+                "product_name": "Gaming Monitor",
+                "quantity": 3,
+                "price": 349.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "1e35e3ec-b911-4ed2-af38-88f1331adc1c",
+        "customer": {
+            "customer_id": "b9a391ac-ab40-4f32-8cc1-303192473760",
+            "name": "Rachel Roberts",
+            "email": "graychelsea@example.org",
+            "phone": "478-899-5010",
+            "address": "5062 John Greens\nPort Alyssashire, AZ 16653"
+        },
+        "transaction_date": "2024-02-03",
+        "shipping_method": "Expedited",
+        "total_amount": 3659.88,
+        "shopping_cart": [
+            {
+                "product_id": "596ad329-16c0-4845-92f2-4d2ddeac472c",
+                "product_category": "Home Appliances",
+                "product_name": "Space Heater",
+                "quantity": 3,
+                "price": 69.99
+            },
+            {
+                "product_id": "d39ecb11-76c8-4585-bb26-aa504109ec5e",
+                "product_category": "Entertainment",
+                "product_name": "Television",
+                "quantity": 3,
+                "price": 799.99
+            },
+            {
+                "product_id": "77f5ba00-431a-4c90-ace8-076ca71f8a5c",
+                "product_category": "Office Equipment",
+                "product_name": "Desk Chair",
+                "quantity": 2,
+                "price": 149.99
+            },
+            {
+                "product_id": "0e0304fb-030e-4923-bdeb-a88c2aeb7880",
+                "product_category": "Office Equipment",
+                "product_name": "Desk Chair",
+                "quantity": 3,
+                "price": 149.99
+            },
+            {
+                "product_id": "e60ade71-aa7a-43b9-8db4-fb60dc9c99c9",
+                "product_category": "Home Appliances",
+                "product_name": "Air Conditioner",
+                "quantity": 1,
+                "price": 299.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "dfcc614d-af25-4d15-a17c-799da55ec414",
+        "customer": {
+            "customer_id": "5a1d0d17-4dc9-4e8c-9aa1-972bf8116085",
+            "name": "Tiffany Brown",
+            "email": "larry94@example.net",
+            "phone": "338-687-1527",
+            "address": "1154 Murray Ports Apt. 508\nLake Zacharyfurt, LA 77710"
+        },
+        "transaction_date": "2024-07-04",
+        "shipping_method": "Expedited",
+        "total_amount": 2319.94,
+        "shopping_cart": [
+            {
+                "product_id": "c3f96eeb-32d4-4dc4-9f2e-95a911248c4d",
+                "product_category": "Entertainment",
+                "product_name": "Home Theater System",
+                "quantity": 2,
+                "price": 999.99
+            },
+            {
+                "product_id": "8cdbe6f0-8231-46f6-9e24-15cff7357727",
+                "product_category": "Office Equipment",
+                "product_name": "Mouse",
+                "quantity": 3,
+                "price": 39.99
+            },
+            {
+                "product_id": "fcd91606-99d7-4395-a6f9-44fe29424570",
+                "product_category": "Smart Home",
+                "product_name": "Smart Thermostat",
+                "quantity": 1,
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "beedb251-45f5-4a92-b046-4d9c0af74ef4",
+        "customer": {
+            "customer_id": "50fb1252-f4d8-4ad0-93c3-3e1af60ce6e3",
+            "name": "Benjamin Peterson",
+            "email": "kevin17@example.org",
+            "phone": "001-256-898-2996",
+            "address": "169 Thomas Court Apt. 603\nWest Tinaland, AZ 85507"
+        },
+        "transaction_date": "2023-08-14",
+        "shipping_method": "Expedited",
+        "total_amount": 1149.93,
+        "shopping_cart": [
+            {
+                "product_id": "8a5aeed8-d6cd-4c9b-b676-8a7b16e273aa",
+                "product_category": "Office Equipment",
+                "product_name": "Monitor",
+                "quantity": 3,
+                "price": 249.99
+            },
+            {
+                "product_id": "ec3a56b8-0fa2-4398-96b3-5fd3dd74e6f3",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Pressure Cooker",
+                "quantity": 2,
+                "price": 99.99
+            },
+            {
+                "product_id": "97f5e541-16e1-45f6-a114-5c36fa1f9cfb",
+                "product_category": "Gaming",
+                "product_name": "Gaming Keyboard",
+                "quantity": 2,
+                "price": 99.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "b328efc2-46de-49b7-8a83-85da9ea51d8c",
+        "customer": {
+            "customer_id": "59783a86-f521-4fb0-931b-57cedecbd301",
+            "name": "Billy Jenkins",
+            "email": "owright@example.net",
+            "phone": "+1-699-515-7174x44091",
+            "address": "314 Clay Islands\nPort Lisaburgh, VT 88453"
+        },
+        "transaction_date": "2023-12-13",
+        "shipping_method": "Two-Day",
+        "total_amount": 549.98,
+        "shopping_cart": [
+            {
+                "product_id": "0600ea20-0287-4cd4-a6ea-f3397861f922",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Food Processor",
+                "quantity": 1,
+                "price": 149.99
+            },
+            {
+                "product_id": "3c0b0d53-8626-4845-8589-6b2ef7254a45",
+                "product_category": "Photography",
+                "product_name": "Action Camera",
+                "quantity": 1,
+                "price": 399.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "ed235fd1-9d14-4bca-97f0-fa439ad51fae",
+        "customer": {
+            "customer_id": "d1f960fe-7173-4a52-b4d0-0cdf58d0e1f2",
+            "name": "Denise Mack",
+            "email": "coxsarah@example.com",
+            "phone": "970-616-2660",
+            "address": "Unit 5989 Box 6721\nDPO AP 52500"
+        },
+        "transaction_date": "2024-05-11",
+        "shipping_method": "Expedited",
+        "total_amount": 3049.89,
+        "shopping_cart": [
+            {
+                "product_id": "02e9f324-694d-459b-a777-0d9feb8d3a07",
+                "product_category": "Personal Care",
+                "product_name": "Hair Straightener",
+                "quantity": 2,
+                "price": 49.99
+            },
+            {
+                "product_id": "fa7f7617-7e91-4364-8a88-270b3d1a9104",
+                "product_category": "Personal Care",
+                "product_name": "Electric Shaver",
+                "quantity": 2,
+                "price": 89.99
+            },
+            {
+                "product_id": "c115236e-2cf9-4f94-ab83-75e75748f5d4",
+                "product_category": "Electronics",
+                "product_name": "Smartphone",
+                "quantity": 3,
+                "price": 699.99
+            },
+            {
+                "product_id": "77cbf024-ef4f-4165-a247-a31d5985f36f",
+                "product_category": "Electronics",
+                "product_name": "Wireless Earbuds",
+                "quantity": 3,
+                "price": 199.99
+            },
+            {
+                "product_id": "5c764a8b-3b2d-4418-8c34-ac675a769f35",
+                "product_category": "Home Appliances",
+                "product_name": "Space Heater",
+                "quantity": 1,
+                "price": 69.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "99e58c96-b376-4ee8-a95d-dcad2597bb21",
+        "customer": {
+            "customer_id": "9d39fd83-3b36-4477-9c0b-6a68d96652e3",
+            "name": "Michael Gross",
+            "email": "gardnercindy@example.net",
+            "phone": "319.858.6212",
+            "address": "380 Kristin Extensions\nAllenbury, DC 16512"
+        },
+        "transaction_date": "2024-07-05",
+        "shipping_method": "Expedited",
+        "total_amount": 5799.91,
+        "shopping_cart": [
+            {
+                "product_id": "bfb9e008-b8c2-4c91-ae5c-2b55143cd055",
+                "product_category": "Smart Home",
+                "product_name": "Smart Door Lock",
+                "quantity": 2,
+                "price": 249.99
+            },
+            {
+                "product_id": "8c2c5ba5-81f6-4664-85a0-0e6ca163773f",
+                "product_category": "Fitness",
+                "product_name": "Treadmill",
+                "quantity": 2,
+                "price": 699.99
+            },
+            {
+                "product_id": "e518494b-ffa7-4233-9995-1732519fa46e",
+                "product_category": "Electronics",
+                "product_name": "4K TV",
+                "quantity": 2,
+                "price": 1199.99
+            },
+            {
+                "product_id": "73b8b41d-08d9-4d5b-89ff-deb293fa458e",
+                "product_category": "Gaming",
+                "product_name": "Gaming Console",
+                "quantity": 3,
+                "price": 499.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "7bf7ce54-b029-40c3-b709-0a5fd971af8c",
+        "customer": {
+            "customer_id": "4eef7b6c-b429-469d-8cff-d9278cef6f7d",
+            "name": "Maria Jones",
+            "email": "thomas07@example.net",
+            "phone": "388-982-5773x83916",
+            "address": "2717 Powell Meadows\nCarrolltown, MP 05819"
+        },
+        "transaction_date": "2024-07-03",
+        "shipping_method": "Overnight",
+        "total_amount": 2899.93,
+        "shopping_cart": [
+            {
+                "product_id": "8fa17feb-4b9f-4a49-8a3d-50d0538d83af",
+                "product_category": "Home Appliances",
+                "product_name": "Dishwasher",
+                "quantity": 3,
+                "price": 799.99
+            },
+            {
+                "product_id": "b9fe4217-30eb-4cf3-bcf7-1d657bcc4dd8",
+                "product_category": "Gaming",
+                "product_name": "Gaming Keyboard",
+                "quantity": 3,
+                "price": 99.99
+            },
+            {
+                "product_id": "2edb0324-99d9-4d88-8019-90a38e3499ca",
+                "product_category": "Office Equipment",
+                "product_name": "Printer",
+                "quantity": 1,
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "02fcfd9a-cc41-4c53-9159-239f90bd62e8",
+        "customer": {
+            "customer_id": "6b084b0c-9269-4488-b8c5-9250028a0f6b",
+            "name": "Kevin Butler MD",
+            "email": "carol13@example.net",
+            "phone": "(750)235-0463x952",
+            "address": "19392 Schmidt Grove Suite 097\nNew Tara, CT 12403"
+        },
+        "transaction_date": "2023-11-20",
+        "shipping_method": "Expedited",
+        "total_amount": 3099.97,
+        "shopping_cart": [
+            {
+                "product_id": "4864ee1a-2e82-4cd9-92ac-2cda56fb294d",
+                "product_category": "Electronics",
+                "product_name": "Tablet",
+                "quantity": 1,
+                "price": 499.99
+            },
+            {
+                "product_id": "ccf6c943-ee08-4629-b0bb-ff2d0a3fca2e",
+                "product_category": "Home Appliances",
+                "product_name": "Refrigerator",
+                "quantity": 2,
+                "price": 1299.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "03459d9d-bcb6-44ca-8fff-5a47cb97734d",
+        "customer": {
+            "customer_id": "2268f2a4-aa7e-470a-bfea-bbadc7685bd1",
+            "name": "Kenneth Simmons",
+            "email": "russellchristina@example.com",
+            "phone": "+1-660-468-8768x907",
+            "address": "274 Ian Square\nWest Martha, WY 62061"
+        },
+        "transaction_date": "2023-11-29",
+        "shipping_method": "Expedited",
+        "total_amount": 149.97,
+        "shopping_cart": [
+            {
+                "product_id": "25923e32-06ec-49aa-9b78-e94b44cb8b76",
+                "product_category": "Personal Care",
+                "product_name": "Hair Straightener",
+                "quantity": 3,
+                "price": 49.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "8b8310a6-f58e-48bf-a538-9ebebc3c1449",
+        "customer": {
+            "customer_id": "0b26f3fc-6afb-4700-baab-94bbdc6d1365",
+            "name": "Jason Jensen",
+            "email": "matthewsantos@example.com",
+            "phone": "+1-291-938-3487x740",
+            "address": "1110 Sarah Manors Suite 430\nThompsonside, WA 13596"
+        },
+        "transaction_date": "2024-04-10",
+        "shipping_method": "Two-Day",
+        "total_amount": 549.96,
+        "shopping_cart": [
+            {
+                "product_id": "376bd241-ef52-40b0-ad8c-26b286acc04e",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Pressure Cooker",
+                "quantity": 1,
+                "price": 99.99
+            },
+            {
+                "product_id": "afec1783-c012-45cc-adf8-3a8b7b17f05c",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Air Fryer",
+                "quantity": 3,
+                "price": 149.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "39f1be98-6018-40a5-b25b-9f74c6a901a0",
+        "customer": {
+            "customer_id": "13bc2d1c-0e53-4bb8-ab32-3ee7b6c49d4d",
+            "name": "Ethan Robinson",
+            "email": "dakota00@example.org",
+            "phone": "001-540-803-3346",
+            "address": "257 Luke Turnpike Apt. 215\nSouth Theresafort, MP 95948"
+        },
+        "transaction_date": "2024-01-30",
+        "shipping_method": "Overnight",
+        "total_amount": 1049.97,
+        "shopping_cart": [
+            {
+                "product_id": "8789564d-7b63-4b75-8b29-21b3211feb6c",
+                "product_category": "Gaming",
+                "product_name": "Gaming Monitor",
+                "quantity": 3,
+                "price": 349.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "a43f2638-b007-4b81-a805-e10dbaad9df6",
+        "customer": {
+            "customer_id": "b05dd1ba-54b3-43d9-a586-bb5ad95f0898",
+            "name": "Melissa Evans",
+            "email": "rachelbrennan@example.net",
+            "phone": "849.603.9028",
+            "address": "657 Cindy Parkways Apt. 253\nPort Ryanstad, OK 91983"
+        },
+        "transaction_date": "2023-08-27",
+        "shipping_method": "Overnight",
+        "total_amount": 2299.92,
+        "shopping_cart": [
+            {
+                "product_id": "fcd91606-99d7-4395-a6f9-44fe29424570",
+                "product_category": "Smart Home",
+                "product_name": "Smart Thermostat",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "3a5c61df-4751-438d-9863-ef113299f1df",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Electric Kettle",
+                "quantity": 1,
+                "price": 49.99
+            },
+            {
+                "product_id": "95793030-d1f3-4b04-8012-5f814108cdff",
+                "product_category": "Gaming",
+                "product_name": "Gaming Monitor",
+                "quantity": 3,
+                "price": 349.99
+            },
+            {
+                "product_id": "951bfa50-8e73-4907-bfac-b1ac60e8c5bc",
+                "product_category": "Gaming",
+                "product_name": "VR Headset",
+                "quantity": 1,
+                "price": 399.99
+            },
+            {
+                "product_id": "3c0b0d53-8626-4845-8589-6b2ef7254a45",
+                "product_category": "Photography",
+                "product_name": "Action Camera",
+                "quantity": 1,
+                "price": 399.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "486f662c-2c09-4f90-86a5-ac1451772d6a",
+        "customer": {
+            "customer_id": "cb8622b9-0744-4d65-b9a4-03b617da2662",
+            "name": "Eric Olson",
+            "email": "shannonbarker@example.com",
+            "phone": "957.475.1090x37421",
+            "address": "91856 Derrick Mall\nSouth Wendy, PR 85370"
+        },
+        "transaction_date": "2023-12-26",
+        "shipping_method": "Standard",
+        "total_amount": 119.98,
+        "shopping_cart": [
+            {
+                "product_id": "08a2b042-61a9-4dbe-afa4-e8adf79c590d",
+                "product_category": "Gaming",
+                "product_name": "Gaming Mouse",
+                "quantity": 2,
+                "price": 59.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "3ae70ff3-3e33-4ae5-af2c-d5176e39b0fd",
+        "customer": {
+            "customer_id": "f8fc8743-c941-4f2c-aad5-a045ff71e2aa",
+            "name": "Kristen Kaufman",
+            "email": "adam59@example.org",
+            "phone": "533.920.4508x9578",
+            "address": "PSC 4032, Box 0065\nAPO AE 41190"
+        },
+        "transaction_date": "2023-11-21",
+        "shipping_method": "Overnight",
+        "total_amount": 1919.94,
+        "shopping_cart": [
+            {
+                "product_id": "8df8c531-7b38-427c-88df-fa387afdfb27",
+                "product_category": "Office Equipment",
+                "product_name": "USB Flash Drive",
+                "quantity": 1,
+                "price": 19.99
+            },
+            {
+                "product_id": "d318ec01-c1fa-490f-bed9-dd8c810f039a",
+                "product_category": "Smart Home",
+                "product_name": "Smart Thermostat",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "75768d0a-bb1c-426f-a0bc-3cf2615583ae",
+                "product_category": "Electronics",
+                "product_name": "Tablet",
+                "quantity": 3,
+                "price": 499.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "28f7c1a2-0f0d-4b08-ac51-774b649ec3b9",
+        "customer": {
+            "customer_id": "887d03f4-024b-4161-a59c-413602cfb8c6",
+            "name": "Kathleen Thompson PhD",
+            "email": "darlenedonovan@example.org",
+            "phone": "(364)344-9926",
+            "address": "154 Williams Road Suite 803\nEast Corey, KY 67176"
+        },
+        "transaction_date": "2023-07-29",
+        "shipping_method": "Standard",
+        "total_amount": 3599.97,
+        "shopping_cart": [
+            {
+                "product_id": "fb0c6ac9-6534-4383-853e-d7cceab95802",
+                "product_category": "Electronics",
+                "product_name": "Laptop",
+                "quantity": 3,
+                "price": 1199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "8f8542c3-9c0a-4a2c-b902-7d92f3877126",
+        "customer": {
+            "customer_id": "308f3032-2ca3-426b-9aad-af5f91e66834",
+            "name": "Brian Pacheco",
+            "email": "zachary41@example.net",
+            "phone": "803-872-4581x83930",
+            "address": "000 Dalton Valleys Suite 191\nHoustonberg, WA 35381"
+        },
+        "transaction_date": "2023-11-09",
+        "shipping_method": "Expedited",
+        "total_amount": 269.97,
+        "shopping_cart": [
+            {
+                "product_id": "609b8611-ae1e-4d00-8bd9-864a55a93520",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Blender",
+                "quantity": 3,
+                "price": 89.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "04c3f45a-947d-4436-b4b6-c65c267f4d94",
+        "customer": {
+            "customer_id": "9c06dce3-370f-4caf-919c-5ca288a01571",
+            "name": "Thomas Garcia",
+            "email": "james34@example.net",
+            "phone": "547-659-9650",
+            "address": "3014 Molly Ridge Apt. 120\nGrayville, FL 14366"
+        },
+        "transaction_date": "2024-01-10",
+        "shipping_method": "Overnight",
+        "total_amount": 2599.96,
+        "shopping_cart": [
+            {
+                "product_id": "4cb7d263-77c8-47fb-a264-832f32fee3bc",
+                "product_category": "Home Appliances",
+                "product_name": "Dishwasher",
+                "quantity": 3,
+                "price": 799.99
+            },
+            {
+                "product_id": "663d5fa6-6df8-4a26-bc21-fa11a873e6c1",
+                "product_category": "Entertainment",
+                "product_name": "Soundbar",
+                "quantity": 1,
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "ab66959a-0263-46b7-9417-260a8447954d",
+        "customer": {
+            "customer_id": "b2d6dda4-454f-4905-9f7e-13ff185b6a5b",
+            "name": "Elizabeth Boone",
+            "email": "susanburton@example.net",
+            "phone": "001-344-854-9222x6271",
+            "address": "136 Jessica Keys Apt. 814\nMatthewton, DE 56417"
+        },
+        "transaction_date": "2023-12-11",
+        "shipping_method": "Two-Day",
+        "total_amount": 739.94,
+        "shopping_cart": [
+            {
+                "product_id": "3e0bfccd-23d1-4614-9c6f-2827541d246b",
+                "product_category": "Office Equipment",
+                "product_name": "USB Flash Drive",
+                "quantity": 2,
+                "price": 19.99
+            },
+            {
+                "product_id": "422c3108-7aeb-4d80-b95d-b6242b28cabf",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Pressure Cooker",
+                "quantity": 3,
+                "price": 99.99
+            },
+            {
+                "product_id": "2d61a781-3aa6-4eaf-af0d-fef398529762",
+                "product_category": "Home Appliances",
+                "product_name": "Robot Vacuum",
+                "quantity": 1,
+                "price": 399.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "815433b8-d2e3-49ed-b576-94be9134b70d",
+        "customer": {
+            "customer_id": "85924b69-931d-4ccf-9dc0-cf515e6d441a",
+            "name": "Kevin Payne",
+            "email": "hoconnor@example.com",
+            "phone": "747-436-1795",
+            "address": "USCGC Smith\nFPO AA 53977"
+        },
+        "transaction_date": "2023-07-31",
+        "shipping_method": "Standard",
+        "total_amount": 99.96,
+        "shopping_cart": [
+            {
+                "product_id": "5cdc88c3-c6d6-4e03-bad3-ee89dfb15b8b",
+                "product_category": "Office Equipment",
+                "product_name": "USB Flash Drive",
+                "quantity": 2,
+                "price": 19.99
+            },
+            {
+                "product_id": "b11997af-9f70-421c-9f3c-4d578ae3129f",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Toaster",
+                "quantity": 2,
+                "price": 29.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "b3793118-393a-448e-9e77-3d588432ac55",
+        "customer": {
+            "customer_id": "eeb33ed7-44cc-4116-9421-22c9dbd4c2e5",
+            "name": "Sally Spears",
+            "email": "pjohnson@example.org",
+            "phone": "+1-744-999-8657x95341",
+            "address": "93708 Terri Drive\nNew Curtis, MD 54693"
+        },
+        "transaction_date": "2024-03-01",
+        "shipping_method": "Expedited",
+        "total_amount": 1099.95,
+        "shopping_cart": [
+            {
+                "product_id": "ab7e8df4-51df-4d5f-b8fd-07074cb64810",
+                "product_category": "Electronics",
+                "product_name": "Wireless Earbuds",
+                "quantity": 3,
+                "price": 199.99
+            },
+            {
+                "product_id": "21f23618-d5e7-4a0f-9a52-96ddae175609",
+                "product_category": "Home Appliances",
+                "product_name": "Water Purifier",
+                "quantity": 2,
+                "price": 249.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "e31b2bf6-2178-4274-8feb-3716993c807d",
+        "customer": {
+            "customer_id": "0dc5d5f2-920b-4b39-ba95-4ef8dcad1cac",
+            "name": "Lisa Walker",
+            "email": "sharris@example.org",
+            "phone": "672.593.4163",
+            "address": "653 Cory Views Apt. 919\nLake Brookeville, AK 05357"
+        },
+        "transaction_date": "2023-07-24",
+        "shipping_method": "Standard",
+        "total_amount": 349.96,
+        "shopping_cart": [
+            {
+                "product_id": "71c635f7-c33e-46e7-bdc4-cb8ce37e4f96",
+                "product_category": "Personal Care",
+                "product_name": "Hair Straightener",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "6bcb18ac-8ebe-4108-93cb-0b241db7cc5c",
+                "product_category": "Entertainment",
+                "product_name": "Soundbar",
+                "quantity": 1,
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "bcdb9862-c18f-4802-80be-311ce594753a",
+        "customer": {
+            "customer_id": "30c44a69-a91e-40f2-9889-3c8c797cb87e",
+            "name": "Jose Sparks",
+            "email": "weaverjeffrey@example.net",
+            "phone": "+1-725-975-5253x476",
+            "address": "061 Vang Port Suite 689\nChristopherhaven, ND 85230"
+        },
+        "transaction_date": "2023-11-13",
+        "shipping_method": "Expedited",
+        "total_amount": 959.92,
+        "shopping_cart": [
+            {
+                "product_id": "cec0b1c2-2051-494d-a653-0ca9c48c38d0",
+                "product_category": "Office Equipment",
+                "product_name": "Office Desk",
+                "quantity": 2,
+                "price": 249.99
+            },
+            {
+                "product_id": "e7e328ad-df79-46f4-ac5b-28a035701509",
+                "product_category": "Personal Care",
+                "product_name": "Hair Dryer",
+                "quantity": 3,
+                "price": 59.99
+            },
+            {
+                "product_id": "525855ba-7724-4656-a875-49bd85970631",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Pressure Cooker",
+                "quantity": 1,
+                "price": 99.99
+            },
+            {
+                "product_id": "3321e90b-1a4c-48d4-bdbc-b34ba725ffcb",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Blender",
+                "quantity": 2,
+                "price": 89.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "cfb47929-36c0-40ea-adf0-7461cc9aafc2",
+        "customer": {
+            "customer_id": "44f583b9-3643-48a3-a22a-05c707a23502",
+            "name": "Derek Davis",
+            "email": "mhunt@example.com",
+            "phone": "(971)744-1285x4004",
+            "address": "4407 Christopher Rapids\nMartinmouth, UT 97126"
+        },
+        "transaction_date": "2024-01-04",
+        "shipping_method": "Overnight",
+        "total_amount": 1799.98,
+        "shopping_cart": [
+            {
+                "product_id": "a3547176-9eac-47a4-b36c-d78d2d578d90",
+                "product_category": "Home Appliances",
+                "product_name": "Dryer",
+                "quantity": 2,
+                "price": 899.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "9b1c1474-44d9-41e0-ac38-c5ee570436bf",
+        "customer": {
+            "customer_id": "31bf0e81-1950-4fab-88ae-01a1eda317ef",
+            "name": "Debbie Gill",
+            "email": "roblesryan@example.com",
+            "phone": "301.226.1113x5351",
+            "address": "61228 Sloan Hills\nPort Jonathan, IL 84563"
+        },
+        "transaction_date": "2024-01-25",
+        "shipping_method": "Overnight",
+        "total_amount": 3589.92,
+        "shopping_cart": [
+            {
+                "product_id": "a4eb19f9-22c8-4252-a355-fe19c70f5d4c",
+                "product_category": "Gaming",
+                "product_name": "Gaming Console",
+                "quantity": 3,
+                "price": 499.99
+            },
+            {
+                "product_id": "7cffa05f-3ef7-4f0d-9888-4acf962ee9dd",
+                "product_category": "Home Appliances",
+                "product_name": "Robot Vacuum",
+                "quantity": 1,
+                "price": 399.99
+            },
+            {
+                "product_id": "2e228b51-1a26-4e22-816e-e9c0f83f5dc0",
+                "product_category": "Smart Home",
+                "product_name": "Smart Light Bulb",
+                "quantity": 3,
+                "price": 29.99
+            },
+            {
+                "product_id": "c317aa18-fee3-4b80-a7d1-5420eb694c56",
+                "product_category": "Electronics",
+                "product_name": "Gaming Laptop",
+                "quantity": 1,
+                "price": 1599.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "55f77c33-f3dc-4d0b-901d-b51223d38cfc",
+        "customer": {
+            "customer_id": "21fdc510-c2e7-43ab-a52e-0e2c7d240035",
+            "name": "Stephanie Sloan",
+            "email": "joshuasherman@example.org",
+            "phone": "(351)498-4760x4238",
+            "address": "3124 Hughes Avenue\nSouth Sonya, SC 51522"
+        },
+        "transaction_date": "2024-03-07",
+        "shipping_method": "Expedited",
+        "total_amount": 629.93,
+        "shopping_cart": [
+            {
+                "product_id": "3af1face-80c3-4b8d-a77d-82034b1a6548",
+                "product_category": "Smart Home",
+                "product_name": "Smart Light Bulb",
+                "quantity": 1,
+                "price": 29.99
+            },
+            {
+                "product_id": "89ecdcdf-becb-4a49-a5f7-028428d915fa",
+                "product_category": "Fitness",
+                "product_name": "Dumbbells",
+                "quantity": 1,
+                "price": 49.99
+            },
+            {
+                "product_id": "cd87496e-bf71-4748-a785-76ee3386b5a2",
+                "product_category": "Personal Care",
+                "product_name": "Hair Straightener",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "fdeaad98-5786-45e8-a837-91e0e3fd40ae",
+                "product_category": "Electronics",
+                "product_name": "Wireless Earbuds",
+                "quantity": 2,
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "05fdbe57-ebdc-4ad7-9056-9c48e5c38e04",
+        "customer": {
+            "customer_id": "80347d51-d015-4189-9ec6-05221e7567a3",
+            "name": "Aaron Frazier",
+            "email": "christystrickland@example.com",
+            "phone": "001-446-734-3889x2857",
+            "address": "USNS Grant\nFPO AE 08343"
+        },
+        "transaction_date": "2024-05-02",
+        "shipping_method": "Two-Day",
+        "total_amount": 2699.97,
+        "shopping_cart": [
+            {
+                "product_id": "f0f8a599-3e59-4c66-8eb2-f2dd0e77b566",
+                "product_category": "Photography",
+                "product_name": "Camera",
+                "quantity": 3,
+                "price": 899.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "704e4fa5-455f-4be3-8507-3369a78b97af",
+        "customer": {
+            "customer_id": "4d9257f9-c9e4-471a-8522-f20f0a017b15",
+            "name": "Tony Torres",
+            "email": "julie46@example.com",
+            "phone": "736-678-5662x88290",
+            "address": "2082 Jonathan Ports Apt. 824\nJamesshire, WY 40389"
+        },
+        "transaction_date": "2023-09-12",
+        "shipping_method": "Overnight",
+        "total_amount": 1499.89,
+        "shopping_cart": [
+            {
+                "product_id": "663d5fa6-6df8-4a26-bc21-fa11a873e6c1",
+                "product_category": "Entertainment",
+                "product_name": "Soundbar",
+                "quantity": 3,
+                "price": 199.99
+            },
+            {
+                "product_id": "db07fef1-ab1e-4dba-986a-bd6b9e649af2",
+                "product_category": "Office Equipment",
+                "product_name": "Desk Chair",
+                "quantity": 1,
+                "price": 149.99
+            },
+            {
+                "product_id": "e8440796-8b80-4550-8b10-6d2520b98dc1",
+                "product_category": "Home Appliances",
+                "product_name": "Vacuum Cleaner",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "ad3804e3-04a0-42bf-a774-1aab9e49fa95",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Pressure Cooker",
+                "quantity": 2,
+                "price": 99.99
+            },
+            {
+                "product_id": "7ccdf692-330a-43a7-bf71-ee74e79ad87c",
+                "product_category": "Office Equipment",
+                "product_name": "Keyboard",
+                "quantity": 3,
+                "price": 49.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "b68e2a05-ee9a-4c6b-967a-ea6aee80b092",
+        "customer": {
+            "customer_id": "c7951a00-cc0d-4ad1-bb68-04b4abd24c11",
+            "name": "Jeremy Taylor",
+            "email": "brittanyduncan@example.org",
+            "phone": "+1-646-538-7035",
+            "address": "13065 Cervantes Tunnel Suite 776\nLake Miguelbury, LA 49736"
+        },
+        "transaction_date": "2024-03-02",
+        "shipping_method": "Overnight",
+        "total_amount": 4049.92,
+        "shopping_cart": [
+            {
+                "product_id": "06f53258-f412-4f9a-ab5b-bdef17b8e7f0",
+                "product_category": "Photography",
+                "product_name": "Action Camera",
+                "quantity": 3,
+                "price": 399.99
+            },
+            {
+                "product_id": "ac9850c1-b524-4569-bce3-e7fdffdb6412",
+                "product_category": "Electronics",
+                "product_name": "Laptop",
+                "quantity": 2,
+                "price": 1199.99
+            },
+            {
+                "product_id": "621265c3-cb87-4d4b-9b59-49f9dcf0c283",
+                "product_category": "Office Equipment",
+                "product_name": "Desk Chair",
+                "quantity": 3,
+                "price": 149.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "8a4f296a-d9a3-4155-9c3b-79de3b12561d",
+        "customer": {
+            "customer_id": "db295598-a99d-469a-9a2f-6ae9a061aee9",
+            "name": "Anthony Moore",
+            "email": "johnsonshane@example.com",
+            "phone": "202.462.5695x81015",
+            "address": "PSC 8753, Box 0388\nAPO AA 81416"
+        },
+        "transaction_date": "2024-06-04",
+        "shipping_method": "Overnight",
+        "total_amount": 1359.88,
+        "shopping_cart": [
+            {
+                "product_id": "201110ea-6ae2-494f-8682-e2a8bdb3cd39",
+                "product_category": "Office Equipment",
+                "product_name": "Mouse",
+                "quantity": 3,
+                "price": 39.99
+            },
+            {
+                "product_id": "8ff54d6e-474d-43de-a02f-93742aa5edff",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Slow Cooker",
+                "quantity": 2,
+                "price": 59.99
+            },
+            {
+                "product_id": "595cedfb-2df5-4585-8712-9a808f4d9ba8",
+                "product_category": "Office Equipment",
+                "product_name": "External Hard Drive",
+                "quantity": 3,
+                "price": 89.99
+            },
+            {
+                "product_id": "33165f8d-4023-42fe-92b8-5fbd812c1bfd",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Electric Kettle",
+                "quantity": 3,
+                "price": 49.99
+            },
+            {
+                "product_id": "5203b080-7808-4c7a-a13c-adb4032f4c3a",
+                "product_category": "Electronics",
+                "product_name": "Smartphone",
+                "quantity": 1,
+                "price": 699.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "7a5ab284-dd04-4cc9-973a-af85af8b0bb1",
+        "customer": {
+            "customer_id": "9cff81fa-af0c-46bb-a2ea-59a8baeeb6d7",
+            "name": "Nicole Anderson",
+            "email": "smithtyrone@example.org",
+            "phone": "636.573.6316x664",
+            "address": "4964 Benjamin Lakes Suite 580\nShawstad, GU 74141"
+        },
+        "transaction_date": "2024-06-24",
+        "shipping_method": "Expedited",
+        "total_amount": 479.97,
+        "shopping_cart": [
+            {
+                "product_id": "fd7e717c-1e0e-4874-ba4e-fbfe32e6181a",
+                "product_category": "Smart Home",
+                "product_name": "Smart Home Hub",
+                "quantity": 2,
+                "price": 199.99
+            },
+            {
+                "product_id": "a18f02db-a48f-41e5-adc8-0fd8c5353f01",
+                "product_category": "Personal Care",
+                "product_name": "Facial Steamer",
+                "quantity": 1,
+                "price": 79.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "494f3e77-b86d-453a-8cda-489b9ddba248",
+        "customer": {
+            "customer_id": "3913e21f-ea6a-47b7-af01-f3b0129ef54f",
+            "name": "Katie Hernandez",
+            "email": "duranthomas@example.net",
+            "phone": "001-308-988-6808x90249",
+            "address": "68554 White Loaf\nCheryltown, NE 93209"
+        },
+        "transaction_date": "2023-09-30",
+        "shipping_method": "Two-Day",
+        "total_amount": 249.97,
+        "shopping_cart": [
+            {
+                "product_id": "c9898d74-7b5b-4ab6-b249-f4e5d8ef54e1",
+                "product_category": "Office Equipment",
+                "product_name": "Router",
+                "quantity": 1,
+                "price": 149.99
+            },
+            {
+                "product_id": "6162df04-1643-41db-823e-beff654faad9",
+                "product_category": "Kitchen Appliances",
+                "product_name": "Electric Kettle",
+                "quantity": 1,
+                "price": 49.99
+            },
+            {
+                "product_id": "b0487df8-4fca-473c-8a77-d27155ed56b8",
+                "product_category": "Fitness",
+                "product_name": "Dumbbells",
+                "quantity": 1,
+                "price": 49.99
+            }
+        ]
+    },
+    {
+        "transaction_id": "21a86dc5-cad1-4909-b7e1-48bf046491b9",
+        "customer": {
+            "customer_id": "5a4d05c4-2d3c-426f-8480-469701eb60c9",
+            "name": "Steven Rojas",
+            "email": "laura50@example.net",
+            "phone": "618-357-9809x15740",
+            "address": "3382 Tiffany Mews Suite 033\nPort Keith, VI 46600"
+        },
+        "transaction_date": "2024-05-14",
+        "shipping_method": "Standard",
+        "total_amount": 859.97,
+        "shopping_cart": [
+            {
+                "product_id": "aafc219f-208f-4191-998c-9d1aa2bd07f9",
+                "product_category": "Gaming",
+                "product_name": "Gaming Mouse",
+                "quantity": 1,
+                "price": 59.99
+            },
+            {
+                "product_id": "90794844-266d-41fe-966c-60175a5e4763",
+                "product_category": "Home Appliances",
+                "product_name": "Robot Vacuum",
+                "quantity": 2,
+                "price": 399.99
+            }
+        ]
+    }
+]
