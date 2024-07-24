@@ -8,8 +8,8 @@
  || transaction_id| Unique identifier for a purchased transaction|  3029b8f4-6e3f-4807-a070-ac277465a771||
  ||customer| JSON container for customer information
 |customer| customer_id| unique customer id| 40f2bf3c-691a-4901-b962-a7f9f8e5ab60|
-|customer| name|| customer name |  John Mason||
-|customer| email|| customer email|  |ymendoza@example.com|
+|customer| name| customer name |  John Mason||
+|customer| email| customer email|  ymendoza@example.com|
 |customer|phone| customer phone|  +1-361-334-6962x494|
 |customer| address|customer full address| 3153 Albert Streets Suite 040\nNorth Kyleton, WI ,22864|
  ||transaction_date|date of customer purchase |2023-12-26|
