@@ -1,10 +1,10 @@
 # Data Dictionary for Amazon like Transaction Data
 ## By: Sylvia Vargas
 
-![Alt text](image.png)
+![Alt text](image3.png)
 
 
-|Container| Name| description | data example|
+|Container| Name| Description | Data example|
 | ---- | ---- | ---- | ----|
  || transaction_id| Unique identifier for a purchased transaction|  3029b8f4-6e3f-4807-a070-ac277465a771||
  ||customer| JSON container for customer information
@@ -18,6 +18,7 @@
  ||total_amount| Total amount of shopping transaction |  360.08|
  ||shopping_cart|JSON Container for products purchased in transacton.   There are one to many collections in a shopping_cart container. | |
 |shopping_cart|    product_id| unique product id| 416f5f88-57c3-4104-8191-f449da408803|
+|shopping_cart|    vendor| vendor name| Store Kitchen Appliances|
 |shopping_cart|  product_category| category associated to product| Electronics|
 |shopping_cart|  product_name| short name of product purchased | military|
 |shopping_cart|  quantity| quantity of items purchased| 2|
